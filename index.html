@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#102b35"><title>GDQPAN • Luyện thi Học phần 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="#"><span class="brand-mark">Q</span><span>ÔN TẬP <b>GDQPAN</b><small>HỌC PHẦN 1 · ĐƯỜNG LỐI QP & AN</small></span></a><span class="top-tag">250 CÂU HỎI · 5 ĐỀ THI</span></header>
+  <main class="wrap">
+    <section id="home" class="hero">
+      <div class="eyebrow">NGÂN HÀNG ĐỀ THI</div><h1>Vững kiến thức.<br><em>Tự tin vào phòng thi.</em></h1>
+      <p>Ôn tập và thi thử dựa trên 5 đề GDQPAN Học phần 1 bạn đã gửi. Mỗi đề gồm 50 câu, thời gian 50 phút.</p>
+      <div class="stats"><div><b>05</b><span>Đề thi</span></div><div><b>250</b><span>Câu hỏi</span></div><div><b>50'</b><span>Mỗi đề</span></div></div>
+    </section>
+    <section class="setup panel" id="setup">
+      <div class="section-head"><div><div class="eyebrow">BẮT ĐẦU ÔN TẬP</div><h2>Chọn bài làm</h2></div><span class="step">01 / 02</span></div>
+      <div id="examGrid" class="exam-grid"><div class="loading">Đang tải ngân hàng câu hỏi…</div></div>
+      <div class="settings-row"><div><label for="mode">Chế độ làm bài</label><select id="mode"><option value="exam">Thi thử · Chấm điểm cuối bài</option><option value="practice">Luyện tập · Báo đúng/sai ngay</option></select></div><label class="checkline"><input id="shuffle" type="checkbox"> Trộn thứ tự câu hỏi</label></div>
+      <button id="startBtn" class="primary" disabled>Bắt đầu làm bài <span>→</span></button>
+      <p class="hint">Đáp án được lấy từ bảng “ĐÁP ÁN CHUẨN” ở cuối từng file PDF.</p>
+    </section>
+    <section id="quiz" class="panel hidden">
+      <div class="quiz-top"><button id="exitBtn" class="text-btn">← Thoát</button><div class="quiz-title"><span id="quizName">Đề số 01</span><small id="quizMode">THI THỬ</small></div><div class="timer" id="timer">50:00</div></div>
+      <div class="progress-track"><div id="progressBar"></div></div>
+      <div class="quiz-layout"><aside class="navigator"><div class="nav-head"><b>Câu hỏi</b><span id="answeredCount">0/50</span></div><div id="questionNav" class="question-nav"></div><div class="legend"><span><i class="dot done"></i> Đã chọn</span><span><i class="dot current"></i> Đang xem</span></div></aside>
+        <article class="question-area"><div class="question-meta"><span id="questionNumber">CÂU 01 / 50</span><button id="flagBtn" class="flag">☆ Đánh dấu</button></div><h3 id="questionText"></h3><div id="options" class="options"></div><div id="feedback" class="feedback hidden"></div><div class="question-actions"><button id="prevBtn" class="secondary">← Câu trước</button><button id="nextBtn" class="primary">Câu tiếp theo →</button><button id="submitBtn" class="submit hidden">Nộp bài</button></div></article>
+      </div>
+    </section>
+    <section id="result" class="panel hidden">
+      <div class="result-head"><div class="eyebrow">KẾT QUẢ BÀI LÀM</div><h2 id="resultTitle">Bạn đã hoàn thành!</h2><p id="resultSub"></p></div>
+      <div class="score-card"><div class="score-ring"><strong id="score">0</strong><small>/ 10</small></div><div class="score-details"><b id="scoreLabel">Kết quả</b><p id="scoreText"></p><div class="result-stats"><span><b id="correctCount">0</b> Đúng</span><span><b id="wrongCount">0</b> Sai</span><span><b id="blankCount">0</b> Bỏ trống</span></div></div></div>
+      <div class="result-actions"><button id="reviewBtn" class="primary">Xem lại đáp án</button><button id="againBtn" class="secondary">Làm đề khác</button></div>
+      <div id="reviewList" class="review-list hidden"></div>
+    </section>
+    <footer>© 2026 · Bộ câu hỏi được biên soạn từ 5 file đề thi do người học cung cấp.</footer>
+  </main>
+  <script src="app.js"></script>
+</body></html>

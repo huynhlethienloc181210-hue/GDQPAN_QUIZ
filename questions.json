@@ -1,0 +1,2792 @@
+[
+  {
+    "id": 1,
+    "code": "101",
+    "title": "Đề số 01",
+    "duration": 50,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Đối tượng nghiên cứu của môn học Giáo dục Quốc phòng và An ninh bao gồm những nội dung chủ yếu nào?",
+        "options": {
+          "A": "Nghệ thuật quân sự Việt Nam qua các thời kỳ lịch sử; công tác phòng không nhân dân và kỹ thuật sử dụng vũ khí công nghệ cao.",
+          "B": "Đường lối quốc phòng và an ninh của Đảng; công tác quốc phòng và an ninh; quân sự chung và kỹ thuật chiến đấu bộ binh, chiến thuật.",
+          "C": "Chiến lược bảo vệ Tổ quốc trong tình hình mới; xây dựng lực lượng vũ trang nhân dân và phương pháp huấn luyện quân sự phổ thông.",
+          "D": "Chính sách đối ngoại quốc phòng của Nhà nước; tổ chức biên chế quân đội và kỹ năng sinh tồn trong điều kiện chiến tranh hiện đại."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 2,
+        "question": "Một trong những đặc trưng cơ bản của phương pháp nghiên cứu môn học Giáo dục Quốc phòng và An ninh là gì?",
+        "options": {
+          "A": "Chỉ tập trung nghiên cứu lý luận chính trị - quân sự chuyên sâu nhằm nâng cao nhận thức tư tưởng cho sinh viên đại học.",
+          "B": "Tách biệt hoàn toàn giữa nghiên cứu đường lối quốc phòng với các khoa học xã hội nhân văn để đảm bảo tính đặc thù quân sự.",
+          "C": "Phải kết hợp chặt chẽ giữa lý luận với thực tiễn, lý thuyết đi đôi với thực hành, lấy thực hành làm chính để rèn luyện kỹ năng quân sự.",
+          "D": "Lấy phương pháp phân tích định lượng và mô phỏng công nghệ thông tin làm phương pháp duy nhất trong quá trình giảng dạy."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguồn gốc sâu xa (nguồn gốc kinh tế) dẫn đến sự nảy sinh của chiến tranh là gì?",
+        "options": {
+          "A": "Sự xuất hiện và tồn tại của chế độ chiếm hữu tư nhân về tư liệu sản xuất.",
+          "B": "Sự hình thành các nhà nước đầu tiên trong lịch sử xã hội loài người.",
+          "C": "Sự phân hóa xã hội thành các giai cấp đối kháng và xung đột lợi ích dân tộc.",
+          "D": "Sự bùng nổ dân số và nhu cầu mở rộng lãnh thổ sinh tồn của các bộ lạc nguyên thủy. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 1 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Luận điểm nổi tiếng của C. Ph. Clau-dơ-vít được V.I. Lênin kế thừa và phát triển về bản chất của chiến tranh là gì?",
+        "options": {
+          "A": "Chiến tranh là hiện tượng tự nhiên tất yếu nhằm thanh lọc và thúc đẩy sự tiến hóa của nhân loại.",
+          "B": "Chiến tranh là sự đối đầu thuần túy về tiềm lực kinh tế và khoa học kỹ thuật giữa các quốc gia.",
+          "C": "Chiến tranh là công cụ giải quyết mâu thuẫn tôn giáo và sắc tộc khi ngoại giao hoàn toàn thất bại.",
+          "D": "Chiến tranh là sự kế tục của chính trị bằng những biện pháp khác (cụ thể là bằng bạo lực vũ trang)."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "question": "Theo tư tưởng Hồ Chí Minh, tính chất xã hội của chiến tranh được phân chia thành hai loại cơ bản nào?",
+        "options": {
+          "A": "Chiến tranh quy ước và chiến tranh phi quy ước.",
+          "B": "Chiến tranh chính nghĩa và chiến tranh phi nghĩa.",
+          "C": "Chiến tranh cục bộ và chiến tranh tổng lực.",
+          "D": "Chiến tranh phòng ngự và chiến tranh tiến công."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Trong quan điểm của chủ nghĩa Mác - Lênin về quân đội, yếu tố nào giữ vai trò quyết định đến sức mạnh chiến đấu của quân đội?",
+        "options": {
+          "A": "Số lượng binh sĩ thường trực và lực lượng dự bị động viên hùng hậu.",
+          "B": "Trình độ hiện đại hóa của vũ khí, trang bị kỹ thuật và phương tiện tác chiến.",
+          "C": "Yếu tố chính trị - tinh thần của cán bộ, chiến sĩ trong quân đội.",
+          "D": "Hệ thống công trình phòng thủ kiên cố và nguồn dự trữ hậu cần chiến lược."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "Chủ tịch Hồ Chí Minh khẳng định Quân đội nhân dân Việt Nam có bản chất giai cấp nào?",
+        "options": {
+          "A": "Bản chất giai cấp nông dân, đại diện cho khối liên minh công - nông - trí thức.",
+          "B": "Bản chất phi giai cấp, hoạt động trung lập dưới sự điều hành của Nhà nước pháp quyền.",
+          "C": "Bản chất của tầng lớp trí thức cách mạng, tiên phong trong sự nghiệp công nghiệp hóa.",
+          "D": "Bản chất giai cấp công nhân, đồng thời có tính nhân dân và tính dân tộc sâu sắc."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "question": "Nội dung nào sau đây phản ánh đúng quan điểm của chủ nghĩa Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa?",
+        "options": {
+          "A": "Bảo vệ Tổ quốc xã hội chủ nghĩa là một tất yếu khách quan của cách mạng vô sản.",
+          "B": "Bảo vệ Tổ quốc xã hội chủ nghĩa chỉ đặt ra khi đất nước trực tiếp bị xâm lược quân sự.",
+          "C": "Bảo vệ Tổ quốc xã hội chủ nghĩa là nhiệm vụ riêng của lực lượng quân đội và công an.",
+          "D": "Bảo vệ Tổ quốc xã hội chủ nghĩa chủ yếu dựa vào sự chi viện quân sự từ bên ngoài."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Lời căn dặn của Chủ tịch Hồ Chí Minh với cán bộ, chiến sĩ Đại đoàn Quân Tiên Phong tại Đền Hùng ngày 19/9/1954 là gì?",
+        "options": {
+          "A": "\"Không có gì quý hơn độc lập, tự do; hễ còn một tên xâm lược trên đất nước ta thì ta còn phải chiến đấu quét sạch nó đi\".",
+          "B": "\"Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước\".",
+          "C": "\"Quân đội ta trung với Đảng, hiếu với dân, sẵn sàng chiến đấu hy sinh vì độc lập, tự do của Tổ quốc\".",
+          "D": "\"Dù phải đốt cháy cả dãy Trường Sơn cũng phải kiên quyết giành cho được độc lập\". Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 2 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Nền quốc phòng toàn dân được hiểu là sức mạnh quốc phòng của đất nước được xây dựng trên nền tảng nào?",
+        "options": {
+          "A": "Nền tảng công nghiệp quốc phòng hiện đại kết hợp với các liên minh quân sự chiến lược trong khu vực.",
+          "B": "Nền tảng ngân sách quốc phòng tập trung và đội ngũ sĩ quan chuyên nghiệp được đào tạo bài bản.",
+          "C": "Nền tảng nhân lực, vật lực, tinh thần mang tính chất toàn dân, toàn diện, độc lập, tự chủ, tự lực, tự cường.",
+          "D": "Nền tảng tiềm lực khoa học công nghệ cao và hệ thống phòng thủ biên giới quốc gia khép kín."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "question": "Đặc trưng nào thể hiện sự khác biệt căn bản về bản chất của nền quốc phòng toàn dân, an ninh nhân dân Việt Nam so với các nước tư bản chủ nghĩa?",
+        "options": {
+          "A": "Nền quốc phòng toàn dân, an ninh nhân dân được đầu tư ngân sách lớn nhất trong khu vực.",
+          "B": "Nền quốc phòng toàn dân, an ninh nhân dân có lực lượng thường trực đông đảo nhất.",
+          "C": "Nền quốc phòng toàn dân, an ninh nhân dân tách rời hoàn toàn với các hoạt động kinh tế đối ngoại.",
+          "D": "Nền quốc phòng toàn dân, an ninh nhân dân chỉ có mục đích duy nhất là tự vệ chính đáng."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "question": "Tiềm lực quốc phòng, an ninh được tạo thành từ những tiềm lực cơ bản nào?",
+        "options": {
+          "A": "Tiềm lực chính trị - tinh thần; tiềm lực kinh tế; tiềm lực khoa học, công nghệ; tiềm lực quân sự, an ninh.",
+          "B": "Tiềm lực đối ngoại; tiềm lực văn hóa - xã hội; tiềm lực tài nguyên thiên nhiên; tiềm lực dân số.",
+          "C": "Tiềm lực công nghiệp nặng; tiềm lực giao thông vận tải; tiềm lực y tế quân sự; tiềm lực thông tin.",
+          "D": "Tiềm lực biên phòng; tiềm lực hải quân; tiềm lực phòng không - không quân; tiềm lực an ninh mạng."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Trong các tiềm lực của nền quốc phòng toàn dân, an ninh nhân dân, tiềm lực nào giữ vai trò nền tảng, là cơ sở vật chất của các tiềm lực khác?",
+        "options": {
+          "A": "Tiềm lực chính trị - tinh thần.",
+          "B": "Tiềm lực kinh tế.",
+          "C": "Tiềm lực khoa học, công nghệ.",
+          "D": "Tiềm lực quân sự, an ninh."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Thế trận quốc phòng toàn dân và thế trận an ninh nhân dân có mối quan hệ như thế nào?",
+        "options": {
+          "A": "Hoạt động độc lập theo từng địa bàn riêng biệt: quốc phòng ở biên giới, an ninh ở nội địa.",
+          "B": "Thế trận quốc phòng chỉ thiết lập trong thời chiến, còn thế trận an ninh chỉ thiết lập trong thời bình.",
+          "C": "Gắn bó hữu cơ, thống nhất chặt chẽ với nhau, hỗ trợ và bổ sung cho nhau trong thế trận chung của cả nước.",
+          "D": "Thế trận an ninh nhân dân bao trùm và thay thế hoàn toàn thế trận quốc phòng toàn dân."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, Đảng ta xác định yếu tố nào là nguồn gốc tạo nên sức mạnh vô địch của chiến tranh nhân dân?",
+        "options": {
+          "A": "Địa hình rừng núi hiểm trở, khí hậu nhiệt đới khắc nghiệt và hệ thống sông ngòi chằng chịt.",
+          "B": "Sự giúp đỡ toàn diện về vũ khí chiến lược và chuyên gia quân sự từ các nước đồng minh.",
+          "C": "Hệ thống căn cứ địa hậu phương vững chắc ở miền núi phía Bắc và Tây Nguyên.",
+          "D": "Lòng yêu nước, ý chí độc lập tự chủ và sức mạnh đại đoàn kết toàn dân tộc dưới sự lãnh đạo của Đảng. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 3 of 10"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "question": "Phương châm tiến hành chiến tranh nhân dân bảo vệ Tổ quốc của Việt Nam là gì?",
+        "options": {
+          "A": "Tiến hành chiến tranh toàn dân, toàn diện, lấy lực lượng vũ trang ba thứ quân làm nòng cốt, dưới sự lãnh đạo của Đảng.",
+          "B": "Đánh nhanh, thắng nhanh bằng các chiến dịch hiệp đồng quân binh chủng quy mô lớn ngay từ đầu.",
+          "C": "Tập trung toàn bộ lực lượng chủ lực phòng ngự tại các đô thị lớn và khu công nghiệp trọng điểm.",
+          "D": "Chỉ tiến hành chiến tranh du kích nhỏ lẻ trên phạm vi cả nước để tiêu hao sinh lực địch kéo dài."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Lực lượng vũ trang nhân dân ba thứ quân của Việt Nam bao gồm những thành phần nào?",
+        "options": {
+          "A": "Quân đội nhân dân, Công an nhân dân và Cảnh sát biển.",
+          "B": "Bộ đội chủ lực, bộ đội địa phương và dân quân tự vệ.",
+          "C": "Lục quân, Hải quân và Phòng không - Không quân.",
+          "D": "Lực lượng thường trực, lực lượng dự bị động viên và bộ đội biên phòng."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, vì sao phải kết hợp chặt chẽ giữa kháng chiến và kiến quốc (vừa chiến đấu vừa sản xuất)?",
+        "options": {
+          "A": "Nhằm thu hút đầu tư nước ngoài vào các vùng chiến sự để tăng cường quan hệ ngoại giao.",
+          "B": "Nhằm chuyển đổi toàn bộ nền kinh tế thời bình sang nền kinh tế thị trường định hướng xuất khẩu.",
+          "C": "Nhằm không ngừng bồi dưỡng sức dân, duy trì tiềm lực kinh tế - quốc phòng để đánh thắng kẻ thù xâm lược.",
+          "D": "Nhằm giảm bớt quân số của bộ đội chủ lực và chuyển sang làm nhiệm vụ sản xuất nông nghiệp."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 19,
+        "question": "Nguyên tắc cao nhất, bất di bất dịch trong xây dựng lực lượng vũ trang nhân dân Việt Nam là gì?",
+        "options": {
+          "A": "Phi chính trị hóa lực lượng vũ trang để đảm bảo tính khách quan trong thực thi pháp luật.",
+          "B": "Xây dựng lực lượng vũ trang theo hướng chuyên nghiệp hóa hoàn toàn dựa trên chế độ tình nguyện.",
+          "C": "Đặt lực lượng vũ trang dưới sự điều hành trực tiếp của Hội đồng Quốc phòng và An ninh quốc tế.",
+          "D": "Giữ vững và tăng cường sự lãnh đạo tuyệt đối, trực tiếp về mọi mặt của Đảng Cộng sản Việt Nam."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "question": "Phương hướng xây dựng Quân đội nhân dân và Công an nhân dân trong giai đoạn hiện nay được Đảng ta xác định là gì?",
+        "options": {
+          "A": "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, một số quân chủng, binh chủng, lực lượng tiến thẳng lên hiện đại.",
+          "B": "Mở rộng quy mô quân số thường trực lên mức tối đa và trang bị đồng loạt vũ khí hạt nhân chiến thuật.",
+          "C": "Tinh giản tối đa bộ đội địa phương để dồn toàn bộ ngân sách phát triển lực lượng tác chiến không gian mạng.",
+          "D": "Xây dựng lực lượng vũ trang theo mô hình bán quân sự, kết hợp chặt chẽ với các tập đoàn kinh tế tư nhân."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "Trong xây dựng lực lượng vũ trang nhân dân, quan điểm \"tự lực tự cường\" được hiểu như thế nào?",
+        "options": {
+          "A": "Từ chối mọi hình thức hợp tác quốc phòng và chuyển giao công nghệ quân sự với các nước trên thế giới.",
+          "B": "Dựa vào sức mình là chính để xây dựng lực lượng, đồng thời tranh thủ sự ủng hộ, hợp tác quốc tế có hiệu quả.",
+          "C": "Tự sản xuất 100% các loại vũ khí, khí tài chiến lược mà không cần nhập khẩu bất kỳ trang bị nào.",
+          "D": "Mỗi địa phương tự cân đối ngân sách để nuôi dưỡng và trang bị vũ khí cho lực lượng vũ trang tỉnh mình. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 4 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Cơ sở lý luận của việc kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng - an ninh ở Việt Nam là gì?",
+        "options": {
+          "A": "Quốc phòng - an ninh là yếu tố duy nhất quyết định tốc độ tăng trưởng GDP và cơ cấu ngành kinh tế quốc dân.",
+          "B": "Kinh tế và quốc phòng - an ninh là hai lĩnh vực đối lập nhau, đầu tư cho lĩnh vực này tất yếu làm suy yếu lĩnh vực kia.",
+          "C": "Kinh tế quyết định đến nguồn gốc ra đời, sức mạnh của quốc phòng - an ninh; ngược lại quốc phòng - an ninh tác động tích cực trở lại kinh tế.",
+          "D": "Chỉ khi nền kinh tế đạt mức thu nhập cao mới cần đầu tư củng cố tiềm lực quốc phòng và an ninh quốc gia."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "question": "Truyền thống dựng nước đi đôi với giữ nước của dân tộc Việt Nam được đúc kết qua hàng nghìn năm lịch sử như thế nào?",
+        "options": {
+          "A": "Tập trung toàn bộ dân số vào quân đội thường trực ngay cả trong những thời kỳ hòa bình thịnh trị.",
+          "B": "Tách biệt hoàn toàn tầng lớp binh sĩ chuyên nghiệp khỏi hoạt động sản xuất nông nghiệp và thủ công nghiệp.",
+          "C": "Chỉ chú trọng phát triển thương mại hàng hải và hoàn toàn không xây dựng lực lượng quân sự thường trực.",
+          "D": "\"Ngụ binh ư nông\", động vi binh, tĩnh vi dân; vừa phát triển sản xuất vừa sẵn sàng chiến đấu bảo vệ đất nước."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "question": "Trong kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng - an ninh ở các vùng kinh tế trọng điểm, cần ưu tiên nội dung nào?",
+        "options": {
+          "A": "Kết hợp chặt chẽ quy hoạch phát triển đô thị, khu công nghiệp với xây dựng thế trận phòng thủ dân sự và khu vực phòng thủ vững chắc.",
+          "B": "Di dời toàn bộ các cơ sở công nghiệp nặng ra khỏi vùng kinh tế trọng điểm lên các vùng biên giới phía Bắc.",
+          "C": "Hạn chế thu hút vốn đầu tư nước ngoài vào các vùng kinh tế trọng điểm để đảm bảo bí mật quân sự tuyệt đối.",
+          "D": "Chuyển giao toàn quyền quản lý hành chính các vùng kinh tế trọng điểm cho các quân khu quản lý trực tiếp."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Một trong những giải pháp chủ yếu để thực hiện kết hợp kinh tế - xã hội với quốc phòng - an ninh là gì?",
+        "options": {
+          "A": "Xóa bỏ ranh giới quản lý giữa Bộ Quốc phòng và Bộ Kế hoạch và Đầu tư trong phân bổ ngân sách nhà nước.",
+          "B": "Tăng cường sự lãnh đạo của Đảng và hiệu lực quản lý nhà nước của chính quyền các cấp đối với công tác kết hợp.",
+          "C": "Quy định mọi doanh nghiệp tư nhân đều phải dành 30% lợi nhuận hàng năm để đóng góp vào quỹ quốc phòng.",
+          "D": "Đình chỉ các dự án phát triển kinh tế biển ở các vùng đảo xa bờ để tập trung xây dựng căn cứ quân sự. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 5 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Đặc điểm nổi bật của nghệ thuật đánh giặc của ông cha ta trong lịch sử chống ngoại xâm là gì?",
+        "options": {
+          "A": "Luôn chủ động đem quân tiến công phủ đầu sang lãnh thổ đối phương để tiêu diệt căn cứ xuất phát của địch.",
+          "B": "Dựa vào hệ thống thành lũy kiên cố để cố thủ dài ngày và chờ đợi sự hòa giải từ các nước láng giềng.",
+          "C": "Lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy yếu chống mạnh; kết hợp chiến tranh du kích với chiến tranh chính quy.",
+          "D": "Chỉ sử dụng lực lượng kỵ binh và thủy binh tinh nhuệ để quyết chiến chiến lược trên các cánh đồng bằng rộng lớn."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 27,
+        "question": "Kế sách \"Tiên phát chế nhân\" (ngồi yên đợi giặc không bằng đem quân đánh trước để chặn mũi nhọn của giặc) gắn liền với tên tuổi của vị anh hùng dân tộc nào?",
+        "options": {
+          "A": "Trần Hưng Đạo (trong cuộc kháng chiến chống quân Nguyên - Mông lần thứ ba năm 1288).",
+          "B": "Lê Lợi và Nguyễn Trãi (trong cuộc khởi nghĩa Lam Sơn chống quân Minh năm 1418–1427).",
+          "C": "Quang Trung - Nguyễn Huệ (trong cuộc đại phá quân Thanh mùa xuân năm Kỷ Dậu 1789).",
+          "D": "Lý Thường Kiệt (trong cuộc kháng chiến chống quân Tống xâm lược năm 1075–1077)."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 28,
+        "question": "Chiến dịch nào trong kháng chiến chống thực dân Pháp đã đánh dấu bước phát triển vượt bậc của nghệ thuật chiến dịch Việt Nam, trực tiếp kết thúc thắng lợi cuộc kháng chiến 9 năm?",
+        "options": {
+          "A": "Chiến dịch Điện Biên Phủ (năm 1954).",
+          "B": "Chiến dịch Việt Bắc Thu - Đông (năm 1947).",
+          "C": "Chiến dịch Biên giới Thu - Đông (năm 1950).",
+          "D": "Chiến dịch Hòa Bình (năm 1951–1952)."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Một trong những bài học kinh nghiệm lớn về nghệ thuật quân sự được rút ra từ lịch sử đánh giặc giữ nước của dân tộc Việt Nam là gì?",
+        "options": {
+          "A": "Tuyệt đối tránh giao chiến trực diện với quân địch, chỉ dùng biện pháp thương lượng nhượng bộ lãnh thổ.",
+          "B": "Quán triệt tư tưởng tích cực tiến công, kết hợp chặt chẽ giữa đấu tranh quân sự với chính trị và ngoại giao.",
+          "C": "Tập trung toàn bộ binh lực vào một trận quyết chiến duy nhất ở kinh đô để định đoạt vận mệnh đất nước.",
+          "D": "Dựa hoàn toàn vào địa thế hiểm trở của rừng núi và không cần xây dựng lực lượng vũ trang tập trung."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Lãnh thổ quốc gia Việt Nam bao gồm những bộ phận hợp thành nào?",
+        "options": {
+          "A": "Đất liền, các hải đảo gần bờ và vùng đặc quyền kinh tế tính từ đường cơ sở ra 200 hải lý.",
+          "B": "Vùng đất liền, thềm lục địa và toàn bộ khoảng không vũ trụ phía trên lãnh thổ đất liền.",
+          "C": "Vùng đất, vùng biển, vùng trời và lãnh thổ đặc biệt (như tàu bay, tàu biển mang quốc tịch Việt Nam hoạt động ngoài lãnh thổ).",
+          "D": "Lãnh thổ đất liền, vùng nội thủy và các khu vực đặt cơ quan đại diện ngoại giao ở nước ngoài."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Theo Công ước của Liên hợp quốc về Luật Biển năm 1982 (UNCLOS 1982) và Luật Biển Việt Nam năm 2012, lãnh hải của Việt Nam có chiều rộng là bao nhiêu?",
+        "options": {
+          "A": "24 hải lý tính từ đường cơ sở ra phía biển.",
+          "B": "200 hải lý tính từ đường cơ sở ra phía biển.",
+          "C": "350 hải lý tính từ đường cơ sở ra phía biển.",
+          "D": "12 hải lý tính từ đường cơ sở ra phía biển. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 6 of 10"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 32,
+        "question": "Biên giới quốc gia trên đất liền được xác định bằng yếu tố nào?",
+        "options": {
+          "A": "Hệ thống mốc quốc giới trên thực địa và được ghi nhận trong các điều ước quốc tế giữa các quốc gia có chung biên giới.",
+          "B": "Các đường phân thủy tự nhiên của các dãy núi cao nhất nằm dọc theo khu vực tiếp giáp giữa hai nước.",
+          "C": "Tuyên bố đơn phương của cơ quan quản lý xuất nhập cảnh tại các cửa khẩu quốc tế đường bộ.",
+          "D": "Giới hạn hoạt động tuần tra hàng ngày của lực lượng bộ đội biên phòng và dân quân tự vệ xã biên giới."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Quan điểm nhất quán của Đảng và Nhà nước Việt Nam trong giải quyết các tranh chấp về chủ quyền lãnh thổ, biên giới, biển đảo là gì?",
+        "options": {
+          "A": "Sử dụng biện pháp quân sự răn đe trước hết để buộc các bên liên quan phải từ bỏ yêu sách chủ quyền.",
+          "B": "Giải quyết bằng biện pháp hòa bình, trên cơ sở tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ và luật pháp quốc tế.",
+          "C": "Đưa tất cả các vấn đề biên giới đất liền ra trọng tài thương mại quốc tế để phân xử.",
+          "D": "Nhượng bộ một phần chủ quyền biển đảo để đổi lấy các hiệp định thương mại tự do song phương."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 34,
+        "question": "Luật Dân quân tự vệ năm 2019 quy định công dân Việt Nam trong độ tuổi nào có nghĩa vụ tham gia Dân quân tự vệ trong thời bình?",
+        "options": {
+          "A": "Nam từ đủ 18 tuổi đến hết 27 tuổi; nữ từ đủ 18 tuổi đến hết 25 tuổi không phân biệt tình nguyện hay bắt buộc.",
+          "B": "Nam và nữ từ đủ 20 tuổi đến hết 55 tuổi đối với tất cả các cơ quan, tổ chức và địa phương trên cả nước.",
+          "C": "Nam từ đủ 18 tuổi đến hết 45 tuổi; nữ từ đủ 18 tuổi đến hết 40 tuổi (nếu tình nguyện có thể kéo dài đến hết 50 tuổi đối với nam, hết 45 tuổi đối với nữ).",
+          "D": "Nam từ đủ 17 tuổi đến hết 35 tuổi; nữ từ đủ 18 tuổi đến hết 30 tuổi có trình độ từ trung học phổ thông trở lên."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 35,
+        "question": "Vị trí, vai trò của lực lượng Dân quân tự vệ được quy định như thế nào trong hệ thống tổ chức quân sự nước ta?",
+        "options": {
+          "A": "Là lực lượng quân đội chuyên nghiệp hưởng lương từ ngân sách quốc phòng và thoát ly hoàn toàn khỏi lao động sản xuất.",
+          "B": "Là tổ chức xã hội tự nguyện của thanh niên tại địa phương, không thuộc biên chế của lực lượng vũ trang nhân dân.",
+          "C": "Là lực lượng dự bị chiến lược chỉ được thành lập khi Nhà nước ban bố tình trạng chiến tranh hoặc thiết quân luật.",
+          "D": "Là lực lượng vũ trang quần chúng không thoát ly sản xuất, công tác; là thành phần của lực lượng vũ trang nhân dân nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 36,
+        "question": "Phương châm xây dựng lực lượng Dân quân tự vệ hiện nay là gì?",
+        "options": {
+          "A": "Xây dựng vững mạnh, rộng khắp, coi trọng chất lượng là chính.",
+          "B": "Xây dựng tập trung, quy mô lớn, lấy số lượng làm yếu tố quyết định.",
+          "C": "Chỉ xây dựng tại các xã biên giới, hải đảo và các khu công nghiệp trọng điểm.",
+          "D": "Xây dựng tinh gọn, chuyên nghiệp hóa và trang bị vũ khí hạng nặng như bộ đội chủ lực. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 7 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Lực lượng dự bị động viên bao gồm những thành phần nào?",
+        "options": {
+          "A": "Sĩ quan tại ngũ và lực lượng dân quân tự vệ cơ động.",
+          "B": "Quân nhân dự bị và phương tiện kỹ thuật dự bị.",
+          "C": "Học viên các trường quân đội và công nhân quốc phòng.",
+          "D": "Thanh niên trong độ tuổi nhập ngũ và cựu chiến binh."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "Phong trào toàn dân bảo vệ an ninh Tổ quốc có vị trí như thế nào trong sự nghiệp bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội?",
+        "options": {
+          "A": "Là biện pháp hỗ trợ tạm thời khi lực lượng Công an nhân dân thiếu hụt quân số tại các địa bàn vùng sâu.",
+          "B": "Chỉ mang tính chất tuyên truyền cổ động bề nổi, không trực tiếp tham gia đấu tranh phòng, chống tội phạm.",
+          "C": "Giữ vị trí chiến lược, là nền tảng cơ bản trong sự nghiệp bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội.",
+          "D": "Thay thế hoàn toàn vai trò chuyên trách của lực lượng Công an nhân dân trong điều tra và xử lý tội phạm."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 39,
+        "question": "Trong tổ chức phong trào toàn dân bảo vệ an ninh Tổ quốc, lực lượng nào giữ vai trò nòng cốt, tham mưu và hướng dẫn chuyên môn?",
+        "options": {
+          "A": "Các tổ chức đoàn thể xã hội tự quản.",
+          "B": "Lực lượng bộ đội chủ lực đóng quân trên địa bàn.",
+          "C": "Đội ngũ doanh nhân và các nhà đầu tư địa phương.",
+          "D": "Lực lượng Công an nhân dân."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 40,
+        "question": "Phương pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc cần tuân thủ nguyên tắc cơ bản nào?",
+        "options": {
+          "A": "Phải xuất phát từ quyền lợi, nguyện vọng chính đáng của nhân dân, phù hợp với đặc điểm từng địa bàn và đối tượng.",
+          "B": "Áp dụng một mô hình tổ chức cứng nhắc, đồng nhất cho tất cả các vùng miền từ thành thị đến nông thôn.",
+          "C": "Giao toàn bộ trách nhiệm tự bảo vệ an ninh cho người dân mà không cần sự quản lý của chính quyền cơ sở.",
+          "D": "Chỉ vận động những người có uy tín trong cộng đồng tham gia, hạn chế sự tham gia của quần chúng rộng rãi."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 41,
+        "question": "An ninh quốc gia được hiểu là gì theo quy định của Luật An ninh quốc gia Việt Nam?",
+        "options": {
+          "A": "Trạng thái xã hội không có tội phạm hình sự, tai nạn giao thông và các tệ nạn xã hội trên phạm vi toàn quốc.",
+          "B": "Sự ổn định, phát triển bền vững của chế độ xã hội chủ nghĩa và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, sự bất khả xâm phạm độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.",
+          "C": "Khả năng phòng thủ quân sự của đất nước trước các cuộc tiến công bằng vũ khí công nghệ cao từ bên ngoài.",
+          "D": "Sự an toàn tuyệt đối của hệ thống tài chính, ngân hàng và các cơ sở hạ tầng thông tin trọng yếu quốc gia. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 8 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 42,
+        "question": "Trong công tác bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội, Đảng ta xác định phương châm nào là chủ yếu?",
+        "options": {
+          "A": "Chỉ tập trung xử lý, trấn áp mạnh mẽ sau khi các hành vi xâm phạm an ninh quốc gia đã xảy ra trên thực tế.",
+          "B": "Đặt trọng tâm vào đối phó với các nguy cơ từ bên ngoài, xem nhẹ các yếu tố gây mất ổn định từ bên trong.",
+          "C": "Chủ động phòng ngừa, giữ vững bên trong là chính, kết hợp chặt chẽ giữa phòng ngừa và tiến công trấn áp tội phạm.",
+          "D": "Tách biệt công tác bảo vệ an ninh quốc gia với công tác bảo đảm trật tự, an toàn xã hội thành hai nhiệm vụ riêng rẽ."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 43,
+        "question": "Một trong những nhiệm vụ trọng yếu của công tác bảo đảm trật tự, an toàn xã hội hiện nay là gì?",
+        "options": {
+          "A": "Kiểm soát toàn bộ hoạt động giao dịch thương mại quốc tế và định giá các mặt hàng thiết yếu trên thị trường.",
+          "B": "Trực tiếp quản lý việc tuyển dụng lao động tại các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "C": "Thay thế tòa án nhân dân trong việc xét xử và tuyên án đối với các vụ án dân sự và kinh tế.",
+          "D": "Đấu tranh phòng, chống tội phạm; giữ gìn trật tự công cộng; bảo đảm trật tự, an toàn giao thông và phòng ngừa tệ nạn xã hội."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 44,
+        "question": "Thủ đoạn \"Diễn biến hòa bình\" của các thế lực thù địch chống phá cách mạng Việt Nam có đặc điểm nổi bật nào?",
+        "options": {
+          "A": "Sử dụng tổng hợp các biện pháp phi quân sự (chính trị, kinh tế, văn hóa, tư tưởng, ngoại giao...) là chủ yếu để làm chuyển hóa chế độ từ bên trong.",
+          "B": "Tiến hành các cuộc tập kích đường không ồ ạt bằng vũ khí công nghệ cao ngay từ giai đoạn đầu tiên.",
+          "C": "Chỉ tập trung phá hoại các công trình thủy điện và hệ thống giao thông đường sắt Bắc - Nam.",
+          "D": "Công khai tuyên bố chiến tranh và triển khai quân đội viễn chinh đổ bộ trực tiếp vào các cảng biển lớn."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 45,
+        "question": "Mối quan hệ giữa chiến lược \"Diễn biến hòa bình\" và bạo loạn lật đổ được biểu hiện như thế nào?",
+        "options": {
+          "A": "Hai chiến lược này hoàn toàn đối lập nhau; khi sử dụng \"diễn biến hòa bình\" thì các thế lực thù địch không bao giờ sử dụng bạo loạn lật đổ.",
+          "B": "\"Diễn biến hòa bình\" tạo điều kiện, làm suy yếu từ bên trong để tiến tới bạo loạn lật đổ; bạo loạn lật đổ là hành động tiếp nối thúc đẩy \"diễn biến hòa bình\" nhanh hơn.",
+          "C": "Bạo loạn lật đổ luôn được tiến hành trước để mở đường cho các hoạt động \"diễn biến hòa bình\" về văn hóa, tư tưởng.",
+          "D": "\"Diễn biến hòa bình\" chỉ áp dụng ở nông thôn, còn bạo loạn lật đổ chỉ áp dụng ở các khu công nghiệp tập trung."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 46,
+        "question": "Trong âm mưu chống phá Việt Nam trên lĩnh vực tư tưởng - văn hóa, các thế lực thù địch thường tập trung vào mục tiêu nào?",
+        "options": {
+          "A": "Khuyến khích phát triển các loại hình nghệ thuật truyền thống dân tộc nhằm chia rẽ giữa các thế hệ.",
+          "B": "Đầu tư nâng cấp hệ thống bảo tàng lịch sử cách mạng để làm giảm sự quan tâm của giới trẻ đối với công nghệ.",
+          "C": "Xóa bỏ chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, phủ nhận vai trò lãnh đạo của Đảng và làm phai nhạt bản sắc văn hóa dân tộc.",
+          "D": "Yêu cầu Việt Nam sử dụng tiếng Anh làm ngôn ngữ hành chính duy nhất trong các cơ quan nhà nước. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 01 - Mã đề 101) Page 9 of 10"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 47,
+        "question": "Đặc điểm nổi bật của tình hình dân tộc ở Việt Nam hiện nay là gì?",
+        "options": {
+          "A": "Mỗi dân tộc thiểu số ở Việt Nam đều cư trú tập trung trên một vùng lãnh thổ riêng biệt, không có sự giao thoa văn hóa.",
+          "B": "Dân tộc Kinh chiếm dưới 50% dân số cả nước và chỉ sinh sống ở khu vực đồng bằng sông Hồng.",
+          "C": "Các dân tộc thiểu số ở Việt Nam có trình độ phát triển kinh tế - xã hội hoàn toàn đồng đều với vùng đô thị.",
+          "D": "Việt Nam là quốc gia thống nhất gồm 54 dân tộc anh em cùng sinh sống, có truyền thống đoàn kết gắn bó lâu đời, cư trú đan xen nhau."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 48,
+        "question": "Nguyên tắc cơ bản trong chính sách dân tộc của Đảng và Nhà nước Việt Nam hiện nay là gì?",
+        "options": {
+          "A": "Bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển giữa các dân tộc.",
+          "B": "Đồng hóa văn hóa các dân tộc thiểu số để tạo nên một nền văn hóa đơn nhất trên cả nước.",
+          "C": "Trao quyền tự trị hoàn toàn về chính trị và quân sự cho từng vùng dân tộc thiểu số.",
+          "D": "Ưu tiên phát triển kinh tế vùng đồng bằng trước, sau đó mới đầu tư cho vùng đồng bào dân tộc thiểu số."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 49,
+        "question": "Quan điểm của chủ nghĩa Mác - Lênin về bản chất của tôn giáo là gì?",
+        "options": {
+          "A": "Tôn giáo là một hiện tượng siêu nhiên có trước xã hội loài người và tồn tại vĩnh viễn bất chấp sự biến đổi của lịch sử.",
+          "B": "Tôn giáo là một hình thái ý thức xã hội phản ánh hư ảo hiện thực khách quan; qua sự phản ánh đó các lực lượng tự nhiên và xã hội trở thành siêu nhiên, thần bí.",
+          "C": "Tôn giáo là sản phẩm thuần túy của sự áp đặt hành chính từ giai cấp thống trị nhằm quản lý xã hội.",
+          "D": "Tôn giáo là một học thuyết khoa học tự nhiên giải thích nguồn gốc hình thành vũ trụ và sự sống."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 50,
+        "question": "Chính sách nhất quán của Đảng và Nhà nước Việt Nam đối với tín ngưỡng, tôn giáo hiện nay là gì?",
+        "options": {
+          "A": "Nghiêm cấm mọi hoạt động sinh hoạt tôn giáo tập trung để đảm bảo sự thống nhất tuyệt đối về tư tưởng.",
+          "B": "Công nhận một tôn giáo duy nhất làm quốc giáo và bắt buộc công dân phải theo tôn giáo đó.",
+          "C": "Tôn trọng và bảo đảm quyền tự do tín ngưỡng, tôn giáo và quyền tự do không tín ngưỡng, tôn giáo của công dân theo quy định của pháp luật.",
+          "D": "Cho phép các tổ chức tôn giáo hoạt động độc lập hoàn toàn ngoài sự quản lý của pháp luật Nhà nước."
+        },
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "code": "202",
+    "title": "Đề số 02",
+    "duration": 50,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Cơ sở phương pháp luận chung nhất của việc nghiên cứu môn học Giáo dục Quốc phòng và An ninh là gì?",
+        "options": {
+          "A": "Học thuyết chiến tranh quy ước và nghệ thuật tác chiến hiện đại của thế giới.",
+          "B": "Tâm lý học quân sự và phương pháp sư phạm đại học chuyên ngành.",
+          "C": "Học thuyết Mác - Lênin và tư tưởng Hồ Chí Minh về chiến tranh, quân đội và bảo vệ Tổ quốc.",
+          "D": "Khoa học lịch sử quân sự thế giới từ thời cổ đại đến chiến tranh lạnh."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "question": "Trong quá trình học tập môn Giáo dục Quốc phòng và An ninh, sinh viên cần quán triệt quan điểm tiếp cận nào?",
+        "options": {
+          "A": "Tiếp cận tách rời giữa kiến thức quốc phòng với nhiệm vụ chuyên môn ngành nghề đào tạo.",
+          "B": "Tiếp cận hệ thống, lịch sử - cụ thể, toàn diện và phát triển để nhận thức đúng đường lối của Đảng.",
+          "C": "Chỉ tập trung tiếp cận các kỹ thuật quân sự thuần túy, xem nhẹ nội dung lý luận chính trị.",
+          "D": "Tiếp cận theo hướng phi chính trị hóa nhằm phù hợp với xu thế hội nhập kinh tế quốc tế."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguồn gốc trực tiếp (nguồn gốc xã hội) dẫn đến sự xuất hiện của chiến tranh là gì?",
+        "options": {
+          "A": "Sự ra đời của giai cấp và nhà nước đối kháng.",
+          "B": "Sự phát triển của công cụ lao động bằng kim loại.",
+          "C": "Sự khác biệt về ngôn ngữ và tập quán sinh hoạt giữa các vùng miền.",
+          "D": "Sự biến đổi khí hậu và khan hiếm nguồn nước ngọt toàn cầu."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 4,
+        "question": "Vì sao V.I. Lênin khẳng định chính trị là yếu tố quyết định đến mục đích, tính chất và kết cục của chiến tranh?",
+        "options": {
+          "A": "Vì chính trị chi phối toàn bộ công tác hậu cần và sản xuất vũ khí của quân đội.",
+          "B": "Vì chính trị quy định trực tiếp chiến thuật tác chiến của từng phân đội trên chiến trường.",
+          "C": "Vì chính trị quyết định việc lựa chọn địa hình và thời điểm mở màn chiến dịch.",
+          "D": "Vì chiến tranh chỉ là một bộ phận của chính trị, phục tùng mục tiêu chính trị của một giai cấp hoặc nhà nước nhất định. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 1 of 10"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, quân đội là một tổ chức như thế nào?",
+        "options": {
+          "A": "Là tổ chức xã hội tự quản được lập ra để duy trì trật tự văn hóa cộng đồng.",
+          "B": "Là một tập đoàn người vũ trang, có tổ chức do nhà nước xây dựng để dùng vào cuộc chiến tranh tiến công hoặc chiến tranh phòng ngự.",
+          "C": "Là lực lượng lao động đặc biệt chuyên sản xuất hàng hóa phục vụ xuất khẩu quốc gia.",
+          "D": "Là cơ quan lập pháp cao nhất quyết định việc ký kết các hiệp ước hòa bình quốc tế."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Tư tưởng Hồ Chí Minh về chiến tranh giải phóng dân tộc của nhân dân Việt Nam nhấn mạnh mục tiêu cốt lõi nào?",
+        "options": {
+          "A": "Mở rộng tầm ảnh hưởng địa chính trị ra toàn khu vực Đông Nam Á.",
+          "B": "Khẳng định ưu thế tuyệt đối về tiềm lực quân sự so với các cường quốc phương Tây.",
+          "C": "Đánh đổ ách thống trị của chủ nghĩa thực dân, đế quốc để giành độc lập dân tộc và tự do, hạnh phúc cho nhân dân.",
+          "D": "Thay đổi trật tự kinh tế thế giới bằng con đường đấu tranh vũ trang toàn cầu."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "Nguyên tắc xây dựng quân đội kiểu mới của V.I. Lênin xác định yếu tố nào là nguyên tắc quan trọng hàng đầu?",
+        "options": {
+          "A": "Tuyển mộ binh sĩ theo chế độ lính đánh thuê chuyên nghiệp.",
+          "B": "Tập trung quyền chỉ huy tối cao vào Hội đồng các tướng lĩnh quân sự.",
+          "C": "Duy trì tính trung lập về chính trị trong mọi tình huống biến động xã hội.",
+          "D": "Sự lãnh đạo của Đảng Cộng sản đối với Hồng quân là nguyên tắc quan trọng nhất, quyết định sức mạnh chiến đấu của quân đội."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 8,
+        "question": "Chủ tịch Hồ Chí Minh khẳng định sức mạnh của Quân đội nhân dân Việt Nam bắt nguồn từ đâu?",
+        "options": {
+          "A": "Bắt nguồn từ sự lãnh đạo của Đảng và sự gắn bó máu thịt với nhân dân (\"Quân với dân như cá với nước\").",
+          "B": "Bắt nguồn từ hệ thống căn cứ quân sự hiện đại được xây dựng ở nước ngoài.",
+          "C": "Bắt nguồn từ nguồn viện trợ tài chính không hoàn lại của các tổ chức quốc tế.",
+          "D": "Bắt nguồn từ quy mô dân số trẻ chiếm tỷ trọng cao nhất trong khu vực."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 9,
+        "question": "Theo học thuyết Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa, vai trò của quần chúng nhân dân được xác định như thế nào?",
+        "options": {
+          "A": "Quần chúng nhân dân chỉ đóng vai trò đóng góp lương thực, thực phẩm cho tiền tuyến.",
+          "B": "Bảo vệ Tổ quốc xã hội chủ nghĩa là sự nghiệp của toàn dân, trong đó lực lượng vũ trang nhân dân làm nòng cốt.",
+          "C": "Quần chúng nhân dân không trực tiếp tham gia bảo vệ Tổ quốc mà ủy quyền hoàn toàn cho quân đội.",
+          "D": "Chỉ những công dân nam giới trong độ tuổi thanh niên mới có trách nhiệm bảo vệ Tổ quốc."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 10,
+        "question": "Vị trí của nền quốc phòng toàn dân, an ninh nhân dân trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam hiện nay là gì?",
+        "options": {
+          "A": "Là nhiệm vụ thứ yếu được triển khai sau khi hoàn thành mục tiêu công nghiệp hóa đất nước.",
+          "B": "Là nhiệm vụ riêng của các tỉnh biên giới, hải đảo và các địa bàn chiến lược trọng yếu.",
+          "C": "Là nhiệm vụ trọng yếu, thường xuyên của toàn Đảng, toàn dân và toàn quân, trong đó lực lượng vũ trang làm nòng cốt.",
+          "D": "Là nhiệm vụ tạm thời chỉ được kích hoạt khi xuất hiện nguy cơ xung đột vũ trang từ bên ngoài. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 2 of 10"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 11,
+        "question": "Tiềm lực chính trị, tinh thần trong nền quốc phòng toàn dân, an ninh nhân dân được biểu hiện tập trung ở yếu tố nào?",
+        "options": {
+          "A": "Số lượng các cơ sở công nghiệp quốc phòng và năng lực sửa chữa vũ khí tại chỗ.",
+          "B": "Hệ thống đường giao thông chiến lược nối liền hậu phương với tiền tuyến.",
+          "C": "Trình độ phát triển của công nghệ thông tin và viễn thông quân sự.",
+          "D": "Ý chí, lòng yêu nước, niềm tin của nhân dân vào sự lãnh đạo của Đảng, chế độ xã hội chủ nghĩa và sức mạnh đại đoàn kết toàn dân tộc."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 12,
+        "question": "Xây dựng khu vực phòng thủ tỉnh, thành phố trực thuộc Trung ương vững chắc có ý nghĩa như thế nào?",
+        "options": {
+          "A": "Tạo nên thế trận phòng thủ liên hoàn, tại chỗ, bảo đảm cho mỗi địa phương có khả năng tự bảo vệ và chi viện cho cả nước.",
+          "B": "Biến mỗi tỉnh thành một đơn vị hành chính độc lập, tự quyết định chính sách đối ngoại quốc phòng.",
+          "C": "Thay thế hoàn toàn vai trò chỉ huy tác chiến của các quân khu và Bộ Tổng Tham mưu.",
+          "D": "Tập trung toàn bộ lực lượng vũ trang địa phương vào nhiệm vụ sản xuất kinh doanh thuần túy."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Biện pháp cơ bản hàng đầu để xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là gì?",
+        "options": {
+          "A": "Mở rộng quy mô nhập khẩu vũ khí chiến lược từ nhiều quốc gia khác nhau.",
+          "B": "Thường xuyên thực hiện tốt công tác giáo dục quốc phòng và an ninh cho toàn dân, trước hết là đội ngũ cán bộ, đảng viên và thế hệ trẻ.",
+          "C": "Kéo dài thời gian phục vụ tại ngũ của hạ sĩ quan, binh sĩ lên gấp đôi so với hiện hành.",
+          "D": "Chuyển toàn bộ các doanh nghiệp nhà nước sang sản xuất hàng hóa phục vụ quốc phòng."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Mục đích của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc xã hội chủ nghĩa là gì?",
+        "options": {
+          "A": "Khẳng định vị thế cường quốc quân sự hàng đầu tại khu vực châu Á - Thái Bình Dương.",
+          "B": "Mở rộng vùng ảnh hưởng kinh tế sang các quốc gia láng giềng trong khu vực.",
+          "C": "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.",
+          "D": "Tiêu diệt hoàn toàn tiềm lực kinh tế của các quốc gia có tranh chấp thương mại với Việt Nam."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 15,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, việc tổ chức lực lượng toàn dân đánh giặc được thực hiện thông qua hình thức nào?",
+        "options": {
+          "A": "Chỉ huy động nam giới từ 18 đến 27 tuổi tham gia chiến đấu, các đối tượng khác sơ tán ra nước ngoài.",
+          "B": "Giải thể lực lượng dân quân tự vệ để tập trung toàn bộ thanh niên vào các sư đoàn bộ binh chủ lực.",
+          "C": "Giao toàn bộ nhiệm vụ phòng thủ các thành phố lớn cho các lực lượng bảo vệ chuyên nghiệp tư nhân.",
+          "D": "Kết hợp chặt chẽ giữa lực lượng vũ trang ba thứ quân làm nòng cốt với lực lượng chính trị của toàn dân rộng khắp."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 16,
+        "question": "Tính chất \"toàn diện\" của chiến tranh nhân dân Việt Nam được thể hiện ở điểm nào?",
+        "options": {
+          "A": "Đánh địch trên tất cả các mặt trận: quân sự, chính trị, kinh tế, văn hóa, tư tưởng, ngoại giao, trong đó đấu tranh quân sự giữ vai trò quyết định trực tiếp.",
+          "B": "Chỉ sử dụng đấu tranh ngoại giao và cấm vận kinh tế để làm suy yếu ý chí xâm lược của đối phương.",
+          "C": "Sử dụng mọi loại vũ khí hủy diệt hàng loạt bất chấp các công ước quốc tế về luật nhân đạo chiến tranh.",
+          "D": "Tiến hành chiến tranh đồng thời với tất cả các quốc gia có chung đường biên giới trên bộ và trên biển. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 3 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Trong lực lượng vũ trang ba thứ quân, lực lượng nào giữ vai trò làm nòng cốt cho toàn dân đánh giặc ở cơ sở?",
+        "options": {
+          "A": "Các binh đoàn chủ lực cơ động của Bộ Quốc phòng.",
+          "B": "Lực lượng Dân quân tự vệ.",
+          "C": "Lực lượng Cảnh sát cơ động đặc nhiệm.",
+          "D": "Lực lượng Hải quân đánh bộ."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Một trong những đặc điểm của lực lượng vũ trang nhân dân Việt Nam trong thời kỳ mới là gì?",
+        "options": {
+          "A": "Hoạt động trong điều kiện đất nước hòa bình, độc lập, thống nhất nhưng phải đối mặt với âm mưu \"diễn biến hòa bình\" và chiến tranh công nghệ cao.",
+          "B": "Lực lượng vũ trang đã hoàn thành sứ mệnh lịch sử nên được thu hẹp tối đa quy mô tổ chức.",
+          "C": "Vũ khí trang bị của lực lượng vũ trang đã đạt trình độ hiện đại ngang bằng với các cường quốc quân sự hàng đầu thế giới.",
+          "D": "Lực lượng vũ trang không còn tham gia công tác dân vận và phòng, chống thiên tai, cứu hộ cứu nạn."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "question": "Cơ chế lãnh đạo của Đảng Cộng sản Việt Nam đối với Quân đội nhân dân Việt Nam được thực hiện như thế nào?",
+        "options": {
+          "A": "Đảng lãnh đạo gián tiếp thông qua các tổ chức chính trị - xã hội ở địa phương.",
+          "B": "Đảng chỉ lãnh đạo về đường lối chung, không can thiệp vào công tác tổ chức cán bộ trong quân đội.",
+          "C": "Bộ Quốc phòng tự quyết định mọi chủ trương chiến lược sau đó báo cáo lại với Quốc hội.",
+          "D": "Tuyệt đối, trực tiếp về mọi mặt; thực hiện chế độ một người chỉ huy gắn với chế độ chính ủy, chính trị viên."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 20,
+        "question": "Xây dựng lực lượng vũ trang nhân dân lấy yếu tố nào làm cơ sở, làm nền tảng quyết định?",
+        "options": {
+          "A": "Xây dựng vững mạnh về chính trị làm cơ sở nâng cao chất lượng tổng hợp và sức mạnh chiến đấu.",
+          "B": "Xây dựng hệ thống doanh trại khang trang làm yếu tố quyết định sức mạnh chiến đấu.",
+          "C": "Xây dựng quỹ phúc lợi xã hội lớn làm động lực duy nhất thu hút nhân tài quân sự.",
+          "D": "Xây dựng quan hệ đối ngoại song phương làm nền tảng thay thế cho nội lực quốc phòng."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "Trong xây dựng lực lượng vũ trang nhân dân, quan điểm \"xây dựng lực lượng thường trực tinh, gọn, mạnh, xây dựng lực lượng dự bị động viên hùng hậu, dân quân tự vệ vững mạnh, rộng khắp\" nhằm mục đích gì?",
+        "options": {
+          "A": "Giảm thiểu hoàn toàn chi ngân sách nhà nước cho lĩnh vực quốc phòng trong thời bình.",
+          "B": "Đáp ứng yêu cầu nhiệm vụ bảo vệ Tổ quốc trong thời bình đồng thời sẵn sàng mở rộng lực lượng nhanh chóng khi có chiến tranh.",
+          "C": "Thay thế bộ đội chủ lực bằng lực lượng dự bị động viên trong tất cả các nhiệm vụ trực sẵn sàng chiến đấu.",
+          "D": "Chuyển đổi chức năng của lực lượng vũ trang thành lực lượng lao động kinh tế thuần túy."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 22,
+        "question": "Việc kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng - an ninh ở Việt Nam mang tính chất gì?",
+        "options": {
+          "A": "Là giải pháp tình thế chỉ áp dụng trong giai đoạn khủng hoảng kinh tế toàn cầu.",
+          "B": "Là chính sách riêng dành cho các doanh nghiệp trực thuộc Bộ Quốc phòng và Bộ Công an.",
+          "C": "Là một tất yếu khách quan, là quy luật của sự nghiệp dựng nước và giữ nước của dân tộc Việt Nam.",
+          "D": "Là yêu cầu bắt buộc từ các hiệp định thương mại tự do thế hệ mới mà Việt Nam tham gia. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 4 of 10"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 23,
+        "question": "Trong kết hợp phát triển kinh tế - xã hội với quốc phòng - an ninh ở vùng biển, đảo, nội dung nào giữ vai trò đặc biệt quan trọng?",
+        "options": {
+          "A": "Hạn chế tối đa hoạt động đánh bắt thủy sản xa bờ của ngư dân để tránh va chạm trên biển.",
+          "B": "Di dời dân cư trên các đảo tiền tiêu về đất liền để thuận tiện cho công tác quản lý hành chính.",
+          "C": "Chỉ tập trung khai thác dầu khí ở vùng ven bờ, tạm dừng các dự án kinh tế biển ở vùng đặc quyền kinh tế.",
+          "D": "Phát triển mạnh kinh tế biển gắn với xây dựng thế trận quốc phòng toàn dân và an ninh nhân dân trên biển, hỗ trợ ngư dân vươn khơi bám biển."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "question": "Kết hợp kinh tế - xã hội với quốc phòng - an ninh trong lĩnh vực công nghiệp cần tập trung vào định hướng nào?",
+        "options": {
+          "A": "Xây dựng nền công nghiệp quốc phòng, an ninh lưỡng dụng, hiện đại, trở thành mũi nhọn của công nghiệp quốc gia.",
+          "B": "Tách biệt hoàn toàn công nghiệp quốc phòng khỏi hệ thống công nghiệp dân sinh quốc gia.",
+          "C": "Đóng cửa toàn bộ các nhà máy cơ khí truyền thống để nhập khẩu nguyên chiếc thiết bị quân sự.",
+          "D": "Giao toàn bộ các tập đoàn công nghiệp dân sự cho quân đội trực tiếp điều hành sản xuất."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Tại sao trong quy hoạch, kế hoạch phát triển kinh tế - xã hội ở từng địa phương, ngành, lĩnh vực đều phải có sự thẩm định về quốc phòng - an ninh?",
+        "options": {
+          "A": "Nhằm kéo dài thời gian phê duyệt dự án để kiểm soát chặt chẽ nguồn vốn đầu tư.",
+          "B": "Nhằm bảo đảm mỗi bước phát triển kinh tế - xã hội đều góp phần tăng cường tiềm lực, thế trận quốc phòng - an ninh và không làm phương hại đến lợi ích quốc gia.",
+          "C": "Nhằm buộc mọi dự án kinh tế đều phải trích lập quỹ xây dựng doanh trại quân đội tại địa phương.",
+          "D": "Nhằm hạn chế sự phát triển của khu vực kinh tế tư nhân ở các địa bàn nhạy cảm."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Tư tưởng chỉ đạo tác chiến nổi tiếng của Trần Hưng Đạo trong cuộc kháng chiến chống quân Nguyên - Mông thể hiện nghệ thuật đánh giặc nào?",
+        "options": {
+          "A": "\"Tập trung toàn bộ binh lực đánh một trận quyết chiến duy nhất tại cửa ải biên giới\".",
+          "B": "\"Cố thủ trong kinh thành Thăng Long cho đến khi quân giặc tự rút lui vì hết lương thảo\".",
+          "C": "\"Lấy đoản binh chế trường trận\", tránh chỗ mạnh, đánh chỗ yếu, khoét sâu mâu thuẫn và điểm yếu chí mạng của địch.",
+          "D": "\"Dùng kế sách cầu hòa, cống nạp để giữ yên bờ cõi trong mọi hoàn cảnh lịch sử\"."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 27,
+        "question": "Nghệ thuật \"vây thành, diệt viện\" đỉnh cao trong lịch sử chống ngoại xâm của dân tộc Việt Nam gắn liền với chiến thắng nào?",
+        "options": {
+          "A": "Chiến thắng Bạch Đằng năm 938 của Ngô Quyền.",
+          "B": "Chiến thắng Như Nguyệt năm 1077 của Lý Thường Kiệt.",
+          "C": "Chiến thắng Rạch Gầm - Xoài Mút năm 1785 của Nguyễn Huệ.",
+          "D": "Chiến thắng Chi Lăng - Xương Giang năm 1427 trong khởi nghĩa Lam Sơn."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 28,
+        "question": "Cuộc Tổng tiến công và nổi dậy mùa Xuân năm 1975 với đỉnh cao là Chiến dịch Hồ Chí Minh đã thể hiện rõ nét nghệ thuật quân sự nào của Đảng ta? Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 5 of 10",
+        "options": {
+          "A": "Nghệ thuật tạo thời cơ, nắm bắt thời cơ chiến lược, thần tốc, táo bạo, bất ngờ, chắc thắng, kết hợp tiến công quân sự với nổi dậy của quần chúng.",
+          "B": "Nghệ thuật phòng ngự trận địa kéo dài nhằm tiêu hao sinh lực địch từng bước qua nhiều năm.",
+          "C": "Nghệ thuật chiến tranh du kích phân tán nhỏ lẻ ở vùng nông thôn và rừng núi Tây Nguyên.",
+          "D": "Nghệ thuật đàm phán ngoại giao song phương nhằm phân chia vùng kiểm soát lãnh thổ."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Kế thừa nghệ thuật quân sự truyền thống của ông cha trong điều kiện chiến tranh hiện đại hiện nay, chúng ta cần đặc biệt chú trọng điều gì?",
+        "options": {
+          "A": "Sao chép nguyên xi cách đánh thời xưa và loại bỏ các loại vũ khí, khí tài hiện đại.",
+          "B": "Vận dụng sáng tạo tư tưởng lấy nhỏ thắng lớn, kết hợp cách đánh truyền thống với vũ khí, trang bị hiện đại và nghệ thuật tác chiến mới.",
+          "C": "Chỉ nghiên cứu nghệ thuật quân sự của các nước phương Tây để thay thế hoàn toàn truyền thống dân tộc.",
+          "D": "Từ bỏ chiến tranh nhân dân địa phương để chuyển sang chiến tranh quy ước thuần túy."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Vùng nước nằm phía bên trong đường cơ sở và giáp với bờ biển Việt Nam được gọi là gì?",
+        "options": {
+          "A": "Lãnh hải.",
+          "B": "Vùng tiếp giáp lãnh hải.",
+          "C": "Nội thủy.",
+          "D": "Vùng đặc quyền kinh tế."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Chủ quyền quốc gia của Việt Nam đối với vùng nội thủy có tính chất pháp lý như thế nào?",
+        "options": {
+          "A": "Việt Nam chỉ có quyền ưu tiên khai thác thủy sản, tàu thuyền nước ngoài được tự do qua lại không cần xin phép.",
+          "B": "Vùng nội thủy thuộc quyền quản lý chung của các quốc gia có biển trong khu vực Biển Đông.",
+          "C": "Việt Nam chỉ thực hiện quyền kiểm soát về hải quan và thuế khóa tại vùng nội thủy.",
+          "D": "Việt Nam thực hiện chủ quyền hoàn toàn, tuyệt đối và đầy đủ như trên lãnh thổ đất liền."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 32,
+        "question": "Biên giới quốc gia trên biển của Việt Nam là gì?",
+        "options": {
+          "A": "Là ranh giới phía ngoài của lãnh hải và ranh giới phân định lãnh hải với các quốc gia hữu quan.",
+          "B": "Là đường mép nước thủy triều thấp nhất trung bình trong nhiều năm dọc theo bờ biển.",
+          "C": "Là ranh giới phía ngoài của vùng đặc quyền kinh tế cách đường cơ sở 200 hải lý.",
+          "D": "Là đường nối liền các đảo xa bờ nhất của quần đảo Hoàng Sa và quần đảo Trường Sa."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Trách nhiệm của công dân, đặc biệt là sinh viên trong việc xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia là gì?",
+        "options": {
+          "A": "Tự ý tổ chức các đoàn đi tuần tra biên giới và xử lý các vụ việc vi phạm quy chế biên giới.",
+          "B": "Nâng cao nhận thức, chấp hành nghiêm pháp luật về biên giới quốc gia, đấu tranh phản bác các luận điệu xuyên tạc chủ quyền biển đảo.",
+          "C": "Chỉ quan tâm đến việc học tập chuyên môn, việc bảo vệ chủ quyền biên giới là trách nhiệm riêng của Bộ đội Biên phòng.",
+          "D": "Chia sẻ mọi thông tin chưa được kiểm chứng trên mạng xã hội về tình hình biên giới, hải đảo. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 6 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 34,
+        "question": "Luật Dân quân tự vệ năm 2019 quy định thời hạn thực hiện nghĩa vụ tham gia Dân quân tự vệ tại chỗ, Dân quân tự vệ cơ động là bao nhiêu năm?",
+        "options": {
+          "A": "02 năm.",
+          "B": "03 năm.",
+          "C": "04 năm.",
+          "D": "05 năm."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 35,
+        "question": "Sự khác nhau cơ bản giữa lực lượng \"Dân quân\" và lực lượng \"Tự vệ\" là gì?",
+        "options": {
+          "A": "Dân quân chỉ gồm nữ giới, còn Tự vệ chỉ gồm nam giới trong độ tuổi lao động.",
+          "B": "Dân quân được trang bị vũ khí hiện đại, còn Tự vệ không được trang bị vũ khí.",
+          "C": "Dân quân hoạt động ở vùng biên giới hải đảo, còn Tự vệ hoạt động ở vùng đồng bằng đô thị.",
+          "D": "Dân quân được tổ chức ở xã, phường, thị trấn; Tự vệ được tổ chức ở cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị sự nghiệp, tổ chức kinh tế."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 36,
+        "question": "Một trong những nhiệm vụ quan trọng của lực lượng Dân quân tự vệ theo quy định của pháp luật là gì?",
+        "options": {
+          "A": "Sẵn sàng chiến đấu, chiến đấu và phục vụ chiến đấu bảo vệ địa phương, cơ sở, cơ quan, tổ chức; phối hợp giữ gìn an ninh chính trị, trật tự an toàn xã hội và phòng, chống thiên tai.",
+          "B": "Trực tiếp điều tra, truy tố và xét xử các vụ án hình sự nghiêm trọng xảy ra trên địa bàn cấp xã.",
+          "C": "Quản lý công tác xuất nhập cảnh và cấp hộ chiếu phổ thông cho công dân tại địa phương.",
+          "D": "Thay thế lực lượng Hải quân nhân dân thực hiện nhiệm vụ tuần tra bảo vệ chủ quyền tại quần đảo Trường Sa."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Việc đăng ký, quản lý lực lượng dự bị động viên nhằm mục đích gì?",
+        "options": {
+          "A": "Để thu thuế quốc phòng hàng năm đối với các quân nhân đã hoàn thành nghĩa vụ quân sự tại ngũ.",
+          "B": "Để nắm chắc số lượng, chất lượng quân nhân dự bị và phương tiện kỹ thuật dự bị, bảo đảm huy động nhanh chóng, chính xác khi có lệnh động viên.",
+          "C": "Để hạn chế quyền tự do cư trú và đi lại của quân nhân dự bị trong thời bình.",
+          "D": "Để chuyển toàn bộ quân nhân dự bị sang biên chế của lực lượng Công an xã chính quy."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "Đặc điểm nổi bật của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+        "options": {
+          "A": "Chỉ diễn ra ở các địa bàn nông thôn, miền núi nơi chưa có lực lượng công an chuyên trách.",
+          "B": "Mang tính tự phát của từng nhóm dân cư, không chịu sự lãnh đạo của cấp ủy Đảng.",
+          "C": "Đối tượng tham gia đa dạng, liên quan đến mọi người, mọi tầng lớp xã hội; nội dung, hình thức phong phú, gắn liền với nhiệm vụ chính trị của từng địa phương, đơn vị.",
+          "D": "Chỉ tập trung vào việc tuần tra ban đêm của lực lượng bảo vệ dân phố."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 39,
+        "question": "Nội dung cơ bản của công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc bao gồm việc nào sau đây?",
+        "options": {
+          "A": "Giao chỉ tiêu xử phạt hành chính cho các tổ dân phố và khu dân cư tự quản.",
+          "B": "Thành lập các đội điều tra tư nhân tại các khu chung cư và trường đại học.",
+          "C": "Yêu cầu người dân tự trang bị công cụ hỗ trợ quân dụng để trấn áp tội phạm.",
+          "D": "Nắm tình hình và xây dựng kế hoạch phát động phong trào; tuyên truyền, giáo dục nâng cao ý thức cảnh giác; xây dựng các tổ chức quần chúng nòng cốt và các mô hình tự quản về an ninh trật tự. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 7 of 10"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 40,
+        "question": "Sinh viên có thể đóng góp thiết thực vào phong trào toàn dân bảo vệ an ninh Tổ quốc thông qua hành động nào?",
+        "options": {
+          "A": "Chấp hành tốt nội quy nhà trường, pháp luật Nhà nước; tích cực tham gia các mô hình tự quản về an ninh trật tự, phòng chống tệ nạn xã hội và kịp thời tố giác tội phạm.",
+          "B": "Tự ý tổ chức khám xét nơi ở của các sinh viên khác khi nghi ngờ có hành vi vi phạm nội quy.",
+          "C": "Tham gia bình luận, chia sẻ các bài viết kích động biểu tình trên các diễn đàn mạng xã hội.",
+          "D": "Che giấu hành vi vi phạm pháp luật của bạn bè cùng lớp để giữ gìn thành tích thi đua tập thể."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 41,
+        "question": "Bảo vệ an ninh quốc gia bao gồm những hoạt động chủ yếu nào?",
+        "options": {
+          "A": "Chỉ tập trung vào hoạt động tình báo chiến lược ở nước ngoài.",
+          "B": "Phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại các hoạt động xâm phạm an ninh quốc gia.",
+          "C": "Quản lý đăng ký kinh doanh và cấp giấy phép đầu tư cho các doanh nghiệp trong nước.",
+          "D": "Tổ chức các hoạt động giao lưu văn hóa, thể thao quần chúng tại các khu công nghiệp."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 42,
+        "question": "Nội dung nào sau đây thuộc phạm vi bảo vệ an ninh quốc gia?",
+        "options": {
+          "A": "Bảo vệ hoạt động kinh doanh thuần túy của các công ty đa quốc gia tại nước ngoài.",
+          "B": "Điều tiết tỷ giá hối đoái và lãi suất cơ bản của hệ thống ngân hàng thương mại.",
+          "C": "Bảo vệ an ninh chính trị nội bộ, an ninh kinh tế, an ninh văn hóa - tư tưởng, an ninh dân tộc, tôn giáo, an ninh thông tin, an ninh biên giới.",
+          "D": "Giải quyết các tranh chấp dân sự về quyền thừa kế tài sản giữa các cá nhân."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 43,
+        "question": "Một trong những nguyên tắc cơ bản của hoạt động bảo vệ an ninh quốc gia là gì?",
+        "options": {
+          "A": "Đặt lợi ích của từng địa phương lên trên lợi ích chung của quốc gia, dân tộc.",
+          "B": "Áp dụng các biện pháp nghiệp vụ bất chấp các quy định của Hiến pháp và pháp luật.",
+          "C": "Tách rời sự lãnh đạo của Đảng Cộng sản Việt Nam để đảm bảo tính độc lập tư pháp.",
+          "D": "Tuân thủ Hiến pháp, pháp luật, bảo đảm lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 44,
+        "question": "Mục tiêu cuối cùng của chiến lược \"Diễn biến hòa bình\" mà các thế lực thù địch tiến hành đối với Việt Nam là gì?",
+        "options": {
+          "A": "Xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Việt Nam, xóa bỏ chế độ xã hội chủ nghĩa và lái nước ta đi theo con đường tư bản chủ nghĩa.",
+          "B": "Hỗ trợ Việt Nam cải cách hành chính và nâng cao năng lực cạnh tranh của nền kinh tế thị trường.",
+          "C": "Thúc đẩy quá trình hội nhập văn hóa và mở rộng hợp tác giáo dục đại học với phương Tây.",
+          "D": "Giúp Việt Nam hiện đại hóa trang bị kỹ thuật cho lực lượng cảnh sát biển và biên phòng."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 45,
+        "question": "Thủ đoạn chống phá của các thế lực thù địch trên lĩnh vực kinh tế trong chiến lược \"Diễn biến hòa bình\" là gì?",
+        "options": {
+          "A": "Khuyến khích kinh tế nhà nước giữ vai trò chủ đạo trong mọi ngành kinh tế then chốt.",
+          "B": "Khích lệ phát triển kinh tế tư nhân thuần túy, từng bước làm mất vai trò chủ đạo của kinh tế nhà nước, gây sức ép chính trị thông qua viện trợ và đầu tư.",
+          "C": "Hỗ trợ Việt Nam xây dựng nền kinh tế độc lập, tự chủ, không phụ thuộc vào thị trường bên ngoài.",
+          "D": "Chuyển giao miễn phí toàn bộ công nghệ nguồn hiện đại cho các doanh nghiệp Việt Nam. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 8 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 46,
+        "question": "Giải pháp quan trọng hàng đầu để phòng, chống hiệu quả chiến lược \"Diễn biến hòa bình\", bạo loạn lật đổ hiện nay là gì?",
+        "options": {
+          "A": "Đóng cửa biên giới, ngừng giao lưu văn hóa và hạn chế tối đa việc sử dụng mạng Internet.",
+          "B": "Chỉ tập trung tăng cường lực lượng quân đội thường trực mà không cần chú trọng phát triển kinh tế.",
+          "C": "Đẩy lùi tệ quan liêu, tham nhũng, tiêu cực; giữ vững ổn định chính trị - xã hội và xây dựng Đảng, hệ thống chính trị trong sạch, vững mạnh.",
+          "D": "Cấm công dân Việt Nam đi du học và làm việc tại các nước tư bản phát triển."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 47,
+        "question": "Vì sao các thế lực thù địch thường lợi dụng vấn đề dân tộc và tôn giáo để chống phá cách mạng Việt Nam?",
+        "options": {
+          "A": "Vì đây là những vấn đề chính trị - xã hội nhạy cảm, liên quan đến tâm tư, tình cảm, đức tin của đông đảo quần chúng nhân dân, dễ bị kích động gây chia rẽ khối đại đoàn kết.",
+          "B": "Vì Việt Nam không có chính sách pháp luật nào điều chỉnh hoạt động dân tộc và tôn giáo.",
+          "C": "Vì đồng bào các dân tộc thiểu số và đồng bào có đạo hoàn toàn không có truyền thống yêu nước.",
+          "D": "Vì các vùng dân tộc thiểu số là nơi tập trung toàn bộ các khu công nghiệp nặng của cả nước."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 48,
+        "question": "Trong giải quyết vấn đề dân tộc ở Việt Nam hiện nay, nhiệm vụ nào mang tính chiến lược, lâu dài và cấp bách?",
+        "options": {
+          "A": "Phát triển toàn diện kinh tế - xã hội, nâng cao đời sống vật chất và tinh thần cho đồng bào vùng dân tộc thiểu số và miền núi.",
+          "B": "Di dời toàn bộ đồng bào dân tộc thiểu số từ vùng cao xuống sinh sống tập trung tại các đô thị lớn.",
+          "C": "Xóa bỏ chữ viết và tiếng nói riêng của các dân tộc thiểu số để thống nhất sử dụng một ngôn ngữ.",
+          "D": "Thành lập các khu tự trị kinh tế riêng biệt cho từng dân tộc thiểu số ở Tây Bắc và Tây Nguyên."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 49,
+        "question": "Theo quan điểm của Đảng ta, động lực chủ yếu để đoàn kết đồng bào các tôn giáo với đồng bào không theo tôn giáo trong sự nghiệp xây dựng và bảo vệ Tổ quốc là gì?",
+        "options": {
+          "A": "Thống nhất các giáo lý của mọi tôn giáo thành một hệ tư tưởng chung duy nhất.",
+          "B": "Xóa bỏ mọi sự khác biệt về đức tin thông qua các biện pháp tuyên truyền hành chính.",
+          "C": "Bắt buộc tất cả các chức sắc tôn giáo phải tham gia ứng cử vào các cơ quan chính quyền địa phương.",
+          "D": "Mục tiêu chung \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\", giữ vững độc lập, thống nhất Tổ quốc."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 50,
+        "question": "Khi phát hiện các đối tượng lợi dụng tín ngưỡng, tôn giáo để tuyên truyền đạo trái pháp luật, kích động gây rối trật tự công cộng, công dân cần xử lý như thế nào?",
+        "options": {
+          "A": "Làm ngơ vì cho rằng đó là quyền tự do tín ngưỡng của mỗi cá nhân.",
+          "B": "Nâng cao cảnh giác, không nghe, không tin, không tham gia và kịp thời báo cáo cho chính quyền, cơ quan công an nơi gần nhất để xử lý theo pháp luật.",
+          "C": "Tự ý tập hợp lực lượng để đập phá các cơ sở thờ tự liên quan đến đối tượng đó.",
+          "D": "Quay video và phát tán rộng rãi lên mạng xã hội kèm theo những lời lẽ kỳ thị tôn giáo. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 02 - Mã đề 202) Page 9 of 10"
+        },
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "code": "303",
+    "title": "Đề số 03",
+    "duration": 50,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Môn học Giáo dục Quốc phòng và An ninh trong các trường đại học, cao đẳng là môn học có vị trí như thế nào?",
+        "options": {
+          "A": "Là môn học tự chọn dành cho sinh viên các ngành khoa học xã hội và nhân văn.",
+          "B": "Là môn học ngoại khóa nhằm rèn luyện thể lực trước khi sinh viên tốt nghiệp.",
+          "C": "Là môn học chuyên ngành dành riêng cho sinh viên dự tuyển vào lực lượng vũ trang.",
+          "D": "Là môn học chính khóa, bắt buộc đối với sinh viên các cơ sở giáo dục đại học, cao đẳng trên cả nước."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 2,
+        "question": "Mục tiêu cơ bản của môn học Giáo dục Quốc phòng và An ninh đối với sinh viên là gì?",
+        "options": {
+          "A": "Đào tạo sinh viên trở thành sĩ quan chỉ huy cấp phân đội ngay sau khi hoàn thành khóa học.",
+          "B": "Trang bị kiến thức cơ bản về đường lối quốc phòng, an ninh của Đảng, kỹ năng quân sự cần thiết, nâng cao lòng yêu nước và ý thức trách nhiệm bảo vệ Tổ quốc.",
+          "C": "Thay thế hoàn toàn nghĩa vụ quân sự tại ngũ đối với tất cả nam sinh viên sau khi ra trường.",
+          "D": "Huấn luyện sinh viên sử dụng thành thạo các loại khí tài chiến lược và vũ khí hạng nặng."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, chiến tranh chỉ mất đi vĩnh viễn khi nào?",
+        "options": {
+          "A": "Khi các cường quốc ký kết hiệp ước cắt giảm vũ khí chiến lược toàn cầu.",
+          "B": "Khi Liên hợp quốc thành lập được lực lượng gìn giữ hòa bình thường trực quy mô lớn.",
+          "C": "Khi chế độ tư hữu về tư liệu sản xuất, giai cấp và sự áp bức bóc lột bị xóa bỏ hoàn toàn trên phạm vi toàn thế giới.",
+          "D": "Khi khoa học kỹ thuật phát triển đến mức tạo ra vũ khí có sức hủy diệt tuyệt đối khiến không nước nào dám phát động chiến tranh."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "question": "Thái độ của những người cộng sản đối với chiến tranh theo quan điểm của chủ nghĩa Mác - Lênin là gì?",
+        "options": {
+          "A": "Ủng hộ chiến tranh chính nghĩa (chiến tranh giải phóng dân tộc, bảo vệ Tổ quốc xã hội chủ nghĩa) và kiên quyết phản đối chiến tranh phi nghĩa (chiến tranh xâm lược).",
+          "B": "Phản đối tuyệt đối mọi cuộc chiến tranh không phân biệt nguyên nhân, mục đích và tính chất xã hội.",
+          "C": "Ủng hộ tất cả các cuộc xung đột vũ trang nhằm thúc đẩy nhanh quá trình phân chia lại thị trường thế giới.",
+          "D": "Giữ thái độ trung lập đứng ngoài mọi cuộc chiến tranh xảy ra giữa các quốc gia, dân tộc. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 1 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 5,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, bản chất giai cấp của quân đội phụ thuộc vào yếu tố nào?",
+        "options": {
+          "A": "Phụ thuộc vào thành phần xuất thân xã hội của đa số binh sĩ trong quân đội đó.",
+          "B": "Phụ thuộc vào bản chất của giai cấp và nhà nước đã tổ chức, nuôi dưỡng và sử dụng quân đội đó.",
+          "C": "Phụ thuộc vào nguồn gốc xuất xứ của vũ khí, trang bị kỹ thuật mà quân đội đó sử dụng.",
+          "D": "Phụ thuộc vào địa bàn đóng quân chủ yếu của quân đội ở khu vực thành thị hay nông thôn."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Trong bài viết \"Kháng chiến nhất định thắng lợi\" và các tác phẩm lý luận quân sự, Chủ tịch Hồ Chí Minh khẳng định yếu tố nào quyết định thắng lợi trong chiến tranh?",
+        "options": {
+          "A": "Vũ khí hiện đại là yếu tố duy nhất quyết định sự thành bại trên chiến trường.",
+          "B": "Viện trợ quân sự từ bên ngoài là nhân tố quyết định thắng lợi cuối cùng.",
+          "C": "Con người giác ngộ chính trị, có tinh thần chiến đấu quả cảm là yếu tố quyết định thắng lợi; vũ khí là rất quan trọng nhưng con người mới là quyết định.",
+          "D": "Điều kiện địa lý tự nhiên hiểm trở quyết định hoàn toàn kết quả của cuộc chiến tranh."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 7,
+        "question": "Chức năng cơ bản của Quân đội nhân dân Việt Nam theo tư tưởng Hồ Chí Minh bao gồm những chức năng nào?",
+        "options": {
+          "A": "Đội quân chiến đấu và đội quân nghi lễ ngoại giao.",
+          "B": "Đội quân chiến đấu, đội quân công tác và đội quân lao động sản xuất.",
+          "C": "Đội quân phòng thủ biên giới và đội quân bảo vệ trật tự giao thông đô thị.",
+          "D": "Đội quân nghiên cứu khoa học và đội quân quản lý hành chính nhà nước."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 8,
+        "question": "Nội dung nào thể hiện đúng quan điểm của V.I. Lênin về mối quan hệ giữa xây dựng chủ nghĩa xã hội và bảo vệ Tổ quốc xã hội chủ nghĩa?",
+        "options": {
+          "A": "Phải tạm dừng hoàn toàn công cuộc xây dựng kinh tế để dồn toàn lực cho quốc phòng trong suốt thời kỳ quá độ.",
+          "B": "Chỉ tập trung xây dựng kinh tế trong thời bình, khi chiến tranh nổ ra mới bắt đầu xây dựng quân đội.",
+          "C": "Phải gắn bó chặt chẽ hai nhiệm vụ chiến lược: xây dựng chủ nghĩa xã hội đi đôi với bảo vệ vững chắc Tổ quốc xã hội chủ nghĩa.",
+          "D": "Giao nhiệm vụ bảo vệ Tổ quốc cho liên minh quân sự quốc tế để tập trung phát triển văn hóa."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 9,
+        "question": "Theo tư tưởng Hồ Chí Minh, mục tiêu bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là gì?",
+        "options": {
+          "A": "Bảo vệ độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+          "B": "Bảo vệ quyền lợi kinh tế của các tập đoàn thương mại lớn.",
+          "C": "Duy trì sự cô lập tuyệt đối của đất nước với thế giới bên ngoài.",
+          "D": "Mở rộng biên giới hành chính sang các vùng lãnh thổ lân cận."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "question": "An ninh nhân dân được hiểu như thế nào trong đường lối quốc phòng, an ninh của Đảng ta?",
+        "options": {
+          "A": "Là lực lượng cảnh sát khu vực trực tiếp quản lý hộ khẩu tại các phường, xã.",
+          "B": "Là sự nghiệp của toàn dân, do nhân dân tiến hành, lực lượng an ninh nhân dân làm nòng cốt dưới sự lãnh đạo của Đảng và sự quản lý của Nhà nước.",
+          "C": "Là hệ thống camera giám sát giao thông và an ninh trật tự tại các đô thị lớn.",
+          "D": "Là các quy định nội bộ về bảo mật thông tin trong các cơ quan hành chính nhà nước. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 2 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Tiềm lực khoa học, công nghệ trong nền quốc phòng toàn dân, an ninh nhân dân được thể hiện ở năng lực nào?",
+        "options": {
+          "A": "Số lượng trường đại học và cao đẳng đào tạo các ngành khoa học xã hội trên cả nước.",
+          "B": "Khả năng nhập khẩu nguyên chiếc các dây chuyền sản xuất hàng tiêu dùng từ nước ngoài.",
+          "C": "Năng lực về đội ngũ cán bộ khoa học kỹ thuật, cơ sở vật chất - kỹ thuật và trình độ ứng dụng thành tựu khoa học công nghệ phục vụ quốc phòng, an ninh.",
+          "D": "Tổng giá trị xuất khẩu nông sản và tài nguyên khoáng sản hàng năm của quốc gia."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 12,
+        "question": "Xây dựng lực lượng quốc phòng toàn dân, an ninh nhân dân bao gồm những lực lượng nào?",
+        "options": {
+          "A": "Chỉ bao gồm các quân chủng, binh chủng thuộc Quân đội nhân dân Việt Nam.",
+          "B": "Chỉ bao gồm lực lượng Công an nhân dân và lực lượng Dân quân tự vệ cơ động.",
+          "C": "Bao gồm lực lượng toàn dân (lực lượng chính trị) và lực lượng vũ trang nhân dân làm nòng cốt.",
+          "D": "Chỉ bao gồm các đơn vị bộ đội thường trực đóng quân ở tuyến biên giới và hải đảo."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "question": "Thế trận quốc phòng toàn dân được hiểu là gì?",
+        "options": {
+          "A": "Là đội hình hành quân chiến đấu của một sư đoàn bộ binh cơ giới trên chiến trường.",
+          "B": "Là sự tổ chức, bố trí lực lượng, tiềm lực mọi mặt của đất nước và của toàn dân trên toàn bộ lãnh thổ theo ý đồ chiến lược phòng thủ đất nước.",
+          "C": "Là hệ thống các đồn biên phòng được xây dựng dọc theo biên giới đất liền Việt Nam - Trung Quốc.",
+          "D": "Là kế hoạch điều động lực lượng cảnh sát cơ động khi xảy ra gây rối trật tự công cộng."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 14,
+        "question": "Đối tượng tác chiến của chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là ai?",
+        "options": {
+          "A": "Chủ nghĩa đế quốc và các thế lực thù địch có hành động phá hoại, xâm lược, lật đổ cách mạng nước ta.",
+          "B": "Tất cả các quốc gia có chế độ chính trị khác biệt với nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+          "C": "Các tổ chức kinh tế quốc tế đang đầu tư trực tiếp tại các khu công nghiệp Việt Nam.",
+          "D": "Các quốc gia láng giềng có hoạt động giao thương biên mậu với Việt Nam."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, vì sao phải kết hợp chặt chẽ giữa chiến tranh nhân dân địa phương với chiến tranh bằng các binh đoàn chủ lực?",
+        "options": {
+          "A": "Vì các binh đoàn chủ lực chỉ hoạt động ở vùng đồng bằng, còn địa phương chỉ hoạt động ở miền núi.",
+          "B": "Nhằm phát huy sức mạnh tại chỗ để tiêu hao, kìm chân địch rộng khắp, tạo điều kiện cho các binh đoàn chủ lực cơ động đánh những đòn quyết định tiêu diệt lớn quân địch.",
+          "C": "Vì chiến tranh nhân dân địa phương không có khả năng tác chiến độc lập nếu thiếu sự chỉ huy trực tiếp của binh đoàn chủ lực.",
+          "D": "Nhằm giảm bớt số lượng vũ khí trang bị cho lực lượng vũ trang địa phương."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, yếu tố nào được coi là hậu phương trực tiếp, tại chỗ của từng địa phương?",
+        "options": {
+          "A": "Các căn cứ hậu cần được đặt tại các nước đồng minh trong khu vực.",
+          "B": "Hệ thống kho dự trữ chiến lược tập trung duy nhất tại Thủ đô Hà Nội.",
+          "C": "Khu vực phòng thủ tỉnh, thành phố và các căn cứ hậu phương tại chỗ của địa phương.",
+          "D": "Các tàu vận tải quân sự hoạt động thường xuyên trên vùng biển quốc tế. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 3 of 10"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 17,
+        "question": "Khái niệm \"Lực lượng vũ trang nhân dân Việt Nam\" được hiểu đầy đủ là gì?",
+        "options": {
+          "A": "Là các tổ chức vũ trang và bán vũ trang của nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam quản lý, gồm Quân đội nhân dân, Công an nhân dân và Dân quân tự vệ.",
+          "B": "Là toàn bộ các đơn vị bộ đội thường trực thuộc quyền quản lý của Bộ Quốc phòng.",
+          "C": "Là lực lượng cảnh sát và an ninh chuyên trách thuộc Bộ Công an.",
+          "D": "Là tất cả công dân Việt Nam trong độ tuổi từ 18 đến 45 đang sinh sống trên lãnh thổ Việt Nam."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 18,
+        "question": "Quan điểm \"Giữ vững và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam đối với lực lượng vũ trang nhân dân\" bắt nguồn từ đâu?",
+        "options": {
+          "A": "Bắt nguồn từ quy định tạm thời trong thời kỳ kháng chiến chống thực dân Pháp.",
+          "B": "Bắt nguồn từ yêu cầu của các điều ước quốc tế về kiểm soát vũ trang khu vực.",
+          "C": "Bắt nguồn từ thực tiễn tổ chức biên chế hành chính của các đơn vị sự nghiệp công lập.",
+          "D": "Bắt nguồn từ bản chất giai cấp công nhân của lực lượng vũ trang và quy luật giành, giữ chính quyền của cách mạng vô sản."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 19,
+        "question": "Nội dung \"Chính quy\" trong phương hướng xây dựng Quân đội nhân dân và Công an nhân dân được hiểu là gì?",
+        "options": {
+          "A": "Là thực hiện thống nhất về mọi mặt (tổ chức biên chế, trang bị, huấn luyện, điều lệnh, lễ tiết tác phong) dựa trên chế độ điều lệnh, quy định chặt chẽ của lực lượng vũ trang.",
+          "B": "Là chỉ tuyển chọn những công dân có trình độ thạc sĩ, tiến sĩ vào phục vụ trong lực lượng vũ trang.",
+          "C": "Là trang bị đồng bộ 100% vũ khí tự động hóa và trí tuệ nhân tạo cho mọi đơn vị cơ sở.",
+          "D": "Là tổ chức lực lượng vũ trang hoạt động theo quy chế của các doanh nghiệp cổ phần."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "Một trong những biện pháp chủ yếu để xây dựng lực lượng vũ trang nhân dân vững mạnh về chính trị là gì?",
+        "options": {
+          "A": "Giảm bớt thời gian học tập chính trị để tập trung toàn bộ cho huấn luyện kỹ thuật bắn súng.",
+          "B": "Thường xuyên giáo dục chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh, đường lối của Đảng; nâng cao chất lượng công tác đảng, công tác chính trị trong lực lượng vũ trang.",
+          "C": "Tách rời tổ chức Đoàn Thanh niên Cộng sản Hồ Chí Minh khỏi sinh hoạt của các đơn vị cơ sở.",
+          "D": "Hạn chế việc giao lưu, kết nghĩa giữa các đơn vị lực lượng vũ trang với nhân dân địa phương."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "Trong xây dựng lực lượng vũ trang nhân dân, yếu tố \"tinh nhuệ\" bao gồm những mặt nào?",
+        "options": {
+          "A": "Chỉ tinh nhuệ về thể lực và khả năng hành quân đường dài mang vác nặng.",
+          "B": "Chỉ tinh nhuệ về trình độ sử dụng công nghệ thông tin và ngoại ngữ.",
+          "C": "Tinh nhuệ về chính trị, tinh nhuệ về tổ chức và tinh nhuệ về kỹ thuật, chiến thuật.",
+          "D": "Chỉ tinh nhuệ trong công tác hậu cần và sản xuất tăng gia tự túc."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "question": "Kết hợp phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng - an ninh được hiểu là gì?",
+        "options": {
+          "A": "Là hoạt động gắn kết chặt chẽ, chủ động giữa phát triển kinh tế - xã hội với củng cố quốc phòng - an ninh trong một chỉnh thể thống nhất trên phạm vi cả nước cũng như từng địa phương, ngành, lĩnh vực.",
+          "B": "Là việc sử dụng ngân sách quốc phòng để trợ giá cho toàn bộ các mặt hàng tiêu dùng thiết yếu.",
+          "C": "Là việc điều động toàn bộ bộ đội chủ lực tham gia xây dựng các công trình giao thông dân sự thay cho doanh nghiệp.",
+          "D": "Là việc sáp nhập Bộ Quốc phòng và Bộ Công an vào Bộ Kế hoạch và Đầu tư. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 4 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "Trong kết hợp phát triển kinh tế - xã hội với quốc phòng - an ninh ở vùng núi, biên giới, nội dung nào cần được ưu tiên hàng đầu?",
+        "options": {
+          "A": "Xây dựng các trung tâm thương mại siêu lớn và khu vui chơi giải trí cao cấp dọc đường biên giới.",
+          "B": "Khai thác triệt để tài nguyên rừng tự nhiên để tăng nguồn thu ngân sách cho các tỉnh biên giới.",
+          "C": "Hạn chế đầu tư cơ sở hạ tầng giao thông lên vùng biên giới để ngăn chặn sự xâm nhập từ bên ngoài.",
+          "D": "Ổn định và phát triển đời sống nhân dân, xây dựng cơ sở hạ tầng thiết yếu, kết hợp xây dựng các khu kinh tế - quốc phòng, giữ vững phên dậu Tổ quốc."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 24,
+        "question": "Kết hợp kinh tế - xã hội với quốc phòng - an ninh trong lĩnh vực giao thông vận tải được thực hiện thông qua yêu cầu nào?",
+        "options": {
+          "A": "Quy hoạch, xây dựng hệ thống giao thông vừa phục vụ phát triển kinh tế - xã hội thời bình, vừa bảo đảm tính cơ động chiến lược, phòng thủ khi có chiến tranh.",
+          "B": "Cấm các phương tiện vận tải dân sự lưu thông trên các tuyến đường quốc lộ huyết mạch.",
+          "C": "Chỉ đầu tư phát triển đường hàng không, không đầu tư phát triển đường bộ và đường sắt.",
+          "D": "Chuyển toàn bộ các cảng biển thương mại thành cảng quân sự chuyên dụng."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Hoạt động của các Khu kinh tế - quốc phòng ở nước ta hiện nay nhằm thực hiện mục tiêu kép nào?",
+        "options": {
+          "A": "Thay thế hoàn toàn hệ thống chính quyền hành chính cấp huyện tại các địa bàn vùng sâu, vùng xa.",
+          "B": "Vừa giúp dân xóa đói giảm nghèo, phát triển sản xuất, ổn định dân cư vùng biên giới, hải đảo, vừa xây dựng thế trận quốc phòng, an ninh vững chắc.",
+          "C": "Thu hút các tập đoàn quân sự nước ngoài vào liên doanh khai thác khoáng sản chiến lược.",
+          "D": "Đào tạo nguồn nhân lực xuất khẩu lao động sang các thị trường châu Âu và Bắc Mỹ."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 26,
+        "question": "Yếu tố địa lý - tự nhiên của Việt Nam đã tác động như thế nào đến sự hình thành nghệ thuật quân sự của ông cha ta?",
+        "options": {
+          "A": "Địa hình rừng núi, đồng bằng, sông ngòi, bờ biển dài tạo điều kiện thuận lợi để phát triển cách đánh du kích, phục kích, thủy chiến và vận động chiến linh hoạt.",
+          "B": "Địa hình bằng phẳng hoàn toàn chỉ phù hợp với các trận đánh kỵ binh quy mô hàng chục vạn quân.",
+          "C": "Khí hậu ôn đới khô hanh giúp quân đội dễ dàng hành quân cơ giới trên mọi địa bàn quanh năm.",
+          "D": "Vị trí biệt lập giữa đại dương giúp Việt Nam không bao giờ bị các thế lực ngoại xâm nhòm ngó."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Nghệ thuật kết thúc chiến tranh độc đáo của ông cha ta sau khi đã đánh bại ý chí xâm lược của kẻ thù (như trong khởi nghĩa Lam Sơn) là gì?",
+        "options": {
+          "A": "Truy kích tiêu diệt đến tên lính cuối cùng để thị uy sức mạnh quân sự.",
+          "B": "Bắt giữ toàn bộ tù binh làm nô lệ lao động khổ sai suốt đời.",
+          "C": "Chủ động mở đường hiếu sinh, cấp lương thực, thuyền bè cho quân giặc rút về nước để dập tắt chiến tranh, lập lại hòa bình lâu dài.",
+          "D": "Đòi bồi thường chiến phí bằng cách sáp nhập lãnh thổ của đối phương."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 28,
+        "question": "Trong nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo, nội dung nào giữ vai trò quyết định đến thắng lợi của toàn bộ cuộc chiến tranh?",
+        "options": {
+          "A": "Kỹ thuật bắn tỉa cá nhân.",
+          "B": "Chiến thuật phòng ngự chốt giữ điểm cao.",
+          "C": "Công tác nghi binh chiến thuật cấp phân đội.",
+          "D": "Chiến lược quân sự đúng đắn, sáng tạo của Đảng. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 5 of 10"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 29,
+        "question": "Phương châm tác chiến \"Đánh chắc, tiến chắc\" của Đại tướng Võ Nguyên Giáp đã làm nên thắng lợi lịch sử nào?",
+        "options": {
+          "A": "Chiến thắng Điện Biên Phủ năm 1954.",
+          "B": "Chiến thắng Ấp Bắc năm 1963.",
+          "C": "Chiến thắng Vạn Tường năm 1965.",
+          "D": "Chiến thắng \"Điện Biên Phủ trên không\" năm 1972."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Vùng tiếp giáp lãnh hải của Việt Nam có chiều rộng là bao nhiêu?",
+        "options": {
+          "A": "12 hải lý tính từ ranh giới ngoài của lãnh hải (tức cách đường cơ sở 24 hải lý).",
+          "B": "24 hải lý tính từ ranh giới ngoài của lãnh hải (tức cách đường cơ sở 36 hải lý).",
+          "C": "100 hải lý tính từ đường cơ sở ra phía biển.",
+          "D": "200 hải lý tính từ ranh giới ngoài của lãnh hải."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 31,
+        "question": "Tại vùng đặc quyền kinh tế rộng 200 hải lý tính từ đường cơ sở, Nhà nước Việt Nam có những quyền gì theo Luật Biển Việt Nam năm 2012?",
+        "options": {
+          "A": "Chủ quyền lãnh thổ tuyệt đối như trên đất liền, cấm mọi tàu thuyền và máy bay nước ngoài đi qua.",
+          "B": "Quyền chủ quyền về việc thăm dò, khai thác, quản lý và bảo tồn các tài nguyên thiên nhiên; quyền tài phán về lắp đặt đảo nhân tạo, nghiên cứu khoa học biển và bảo vệ môi trường biển.",
+          "C": "Chỉ có quyền đánh bắt cá truyền thống, không có quyền thăm dò dầu khí dưới đáy biển.",
+          "D": "Không có bất kỳ quyền lợi kinh tế nào, vùng biển này thuộc quyền khai thác tự do của mọi quốc gia."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 32,
+        "question": "Vùng trời quốc gia của Việt Nam được xác định như thế nào?",
+        "options": {
+          "A": "Là khoảng không gian chỉ bao trùm trên lãnh thổ đất liền, không bao gồm vùng biển.",
+          "B": "Là khoảng không gian có độ cao giới hạn tối đa 10 km tính từ mực nước biển.",
+          "C": "Là khoảng không gian bao trùm trên lãnh thổ của nước Cộng hòa xã hội chủ nghĩa Việt Nam (bao gồm vùng đất và vùng biển).",
+          "D": "Là toàn bộ quỹ đạo vệ tinh địa tĩnh nằm phía trên khu vực Đông Nam Á."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 33,
+        "question": "Nội dung nào sau đây là một trong những quan điểm chỉ đạo của Đảng về xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia?",
+        "options": {
+          "A": "Xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia là một nội dung quan trọng của sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+          "B": "Chỉ tập trung bảo vệ biên giới trên đất liền, xem nhẹ chủ quyền trên các quần đảo xa bờ.",
+          "C": "Giao toàn quyền quyết định các vấn đề biên giới cho chính quyền các tỉnh có đường biên giới.",
+          "D": "Tách biệt nhiệm vụ bảo vệ biên giới quốc gia khỏi nhiệm vụ phát triển kinh tế - xã hội khu vực biên giới."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Thành phần của lực lượng Dân quân tự vệ theo Luật Dân quân tự vệ năm 2019 bao gồm những lực lượng nào?",
+        "options": {
+          "A": "Dân quân tự vệ tại chỗ; Dân quân tự vệ cơ động; Dân quân thường trực; Dân quân tự vệ biển; Dân quân tự vệ phòng không, pháo binh, trinh sát, thông tin, công binh, phòng hóa, y tế.",
+          "B": "Bộ binh cơ giới, Tăng thiết giáp, Không quân tiêm kích và Tàu ngầm chiến lược.",
+          "C": "Cảnh sát giao thông, Cảnh sát phòng cháy chữa cháy và Cảnh sát kinh tế.",
+          "D": "Sĩ quan dự bị, hạ sĩ quan dự bị và phương tiện kỹ thuật dự bị hạng 1. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 6 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "Công tác giáo dục chính trị, huấn luyện quân sự cho lực lượng Dân quân tự vệ được tiến hành như thế nào?",
+        "options": {
+          "A": "Chỉ tổ chức huấn luyện một lần duy nhất trong suốt thời hạn phục vụ 4 năm.",
+          "B": "Huấn luyện tập trung tại các học viện quân sự ở Trung ương trong thời gian 12 tháng.",
+          "C": "Giáo dục chính trị, pháp luật và huấn luyện quân sự hàng năm theo chương trình, nội dung phù hợp với từng thành phần, địa bàn và nhiệm vụ.",
+          "D": "Miễn huấn luyện quân sự đối với lực lượng tự vệ tại các cơ quan, doanh nghiệp."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 36,
+        "question": "Đối tượng nào sau đây thuộc diện đăng ký quân nhân dự bị?",
+        "options": {
+          "A": "Tất cả học sinh trung học phổ thông từ đủ 16 tuổi trở lên.",
+          "B": "Công dân đã hoàn thành nghĩa vụ quân sự tại ngũ và công dân chưa phục vụ tại ngũ đủ điều kiện theo quy định của Luật Lực lượng dự bị động viên.",
+          "C": "Người nước ngoài đang cư trú hợp pháp và làm việc lâu dài tại Việt Nam.",
+          "D": "Công dân đã hết tuổi phục vụ trong ngạch dự bị theo quy định của pháp luật."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 37,
+        "question": "Nguyên tắc xây dựng, huy động lực lượng dự bị động viên được pháp luật quy định là gì?",
+        "options": {
+          "A": "Tuân thủ Hiến pháp và pháp luật; đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự thống lĩnh của Chủ tịch nước, sự quản lý thống nhất của Chính phủ.",
+          "B": "Huy động tự nguyện theo thỏa thuận hợp đồng lao động giữa địa phương và quân nhân dự bị.",
+          "C": "Mỗi doanh nghiệp tự quyết định việc thành lập và điều động đơn vị dự bị động viên riêng.",
+          "D": "Chỉ huy động phương tiện kỹ thuật của khu vực kinh tế nhà nước, không huy động của khu vực tư nhân."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Mục đích cốt lõi của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+        "options": {
+          "A": "Huy động sức mạnh của toàn dân tham gia phòng ngừa, phát hiện, ngăn chặn và đấu tranh với các loại tội phạm, tệ nạn xã hội, giữ vững ổn định chính trị và trật tự an toàn xã hội ngay từ cơ sở.",
+          "B": "Thay thế lực lượng quân đội trong việc bảo vệ chủ quyền vùng trời và vùng biển quốc gia.",
+          "C": "Thu hút nguồn tài trợ tài chính của người dân để xây dựng trụ sở công an các cấp.",
+          "D": "Kiểm soát mọi hoạt động sinh hoạt riêng tư hợp pháp của công dân trong khu dân cư."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Một trong những hình thức tổ chức quần chúng làm nòng cốt trong phong trào toàn dân bảo vệ an ninh Tổ quốc ở cơ sở hiện nay là gì?",
+        "options": {
+          "A": "Các công ty dịch vụ đòi nợ thuê.",
+          "B": "Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở (tổ bảo vệ an ninh, trật tự ở thôn, tổ dân phố) và các mô hình tự quản.",
+          "C": "Các câu lạc bộ kinh doanh bất động sản địa phương.",
+          "D": "Các hội đồng quản trị của các ngân hàng thương mại cổ phần."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 40,
+        "question": "Để phong trào toàn dân bảo vệ an ninh Tổ quốc phát triển bền vững, công tác sơ kết, tổng kết và khen thưởng có vai trò gì?",
+        "options": {
+          "A": "Chỉ mang tính hình thức hành chính cuối năm, không tác động đến chất lượng phong trào.",
+          "B": "Nhằm rút kinh nghiệm, nhân rộng các mô hình hay, điển hình tiên tiến và kịp thời động viên, khích lệ tinh thần tích cực của quần chúng nhân dân.",
+          "C": "Nhằm xử phạt các địa phương chưa hoàn thành chỉ tiêu bắt giữ tội phạm.",
+          "D": "Nhằm chấm dứt phong trào sau khi đã đạt được kết quả bước đầu. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 7 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 41,
+        "question": "Trật tự, an toàn xã hội được hiểu là gì?",
+        "options": {
+          "A": "Là trạng thái xã hội bình yên trong đó mọi người được sống yên ổn trên cơ sở các quy phạm pháp luật, các quy tắc và chuẩn mực đạo đức, pháp lý xác định.",
+          "B": "Là tình trạng giới nghiêm ban đêm được áp dụng trên toàn bộ lãnh thổ quốc gia.",
+          "C": "Là sự điều tiết cung cầu hàng hóa trên thị trường nội địa của Bộ Công Thương.",
+          "D": "Là hệ thống các quy định về thi đua khen thưởng trong các cơ quan hành chính nhà nước."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 42,
+        "question": "Mối quan hệ giữa bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội là gì?",
+        "options": {
+          "A": "Hoàn toàn độc lập và không có sự tác động qua lại lẫn nhau.",
+          "B": "Bảo đảm trật tự, an toàn xã hội chỉ quan trọng trong thời bình, còn an ninh quốc gia chỉ quan trọng trong thời chiến.",
+          "C": "Có quan hệ biện chứng, gắn bó mật thiết với nhau; an ninh quốc gia vững chắc tạo điều kiện giữ gìn trật tự, an toàn xã hội và ngược lại.",
+          "D": "Bảo đảm trật tự, an toàn xã hội bao trùm lên bảo vệ an ninh quốc gia."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 43,
+        "question": "Trong tình hình hiện nay, đối tượng nào thường câu kết với nhau để xâm phạm an ninh quốc gia và trật tự, an toàn xã hội?",
+        "options": {
+          "A": "Các nhà khoa học và chuyên gia công nghệ đang hợp tác nghiên cứu tại Việt Nam.",
+          "B": "Các thế lực thù địch bên ngoài với các phần tử phản động, cơ hội chính trị và tội phạm có tổ chức ở trong nước.",
+          "C": "Các doanh nghiệp xuất nhập khẩu và các tổ chức xúc tiến thương mại quốc tế.",
+          "D": "Các tổ chức từ thiện nhân đạo hoạt động theo đúng quy định của pháp luật Việt Nam."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 44,
+        "question": "Bạo loạn lật đổ được hiểu là gì?",
+        "options": {
+          "A": "Là hành động chống phá bằng bạo lực có tổ chức do lực lượng phản động hay lực lượng ly khai, đối lập trong nước hoặc cấu kết với nước ngoài tiến hành nhằm gây rối loạn an ninh chính trị, trật tự an toàn xã hội hoặc lật đổ chính quyền ở địa phương hay trung ương.",
+          "B": "Là các cuộc bãi công, đình công ôn hòa của công nhân đòi tăng lương theo đúng quy định của Bộ luật Lao động.",
+          "C": "Là hoạt động diễn tập phòng thủ dân sự của lực lượng vũ trang địa phương hàng năm.",
+          "D": "Là các tranh chấp khiếu kiện hành chính thông thường về đất đai của một số hộ dân."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 45,
+        "question": "Thủ đoạn của các thế lực thù địch trong việc lợi dụng không gian mạng để thực hiện \"Diễn biến hòa bình\" hiện nay là gì?",
+        "options": {
+          "A": "Hỗ trợ nâng cấp hệ thống bảo mật dữ liệu quốc gia cho các cơ quan chính phủ.",
+          "B": "Lập các trang mạng, tài khoản ảo tung tin giả, xuyên tạc lịch sử, bôi nhọ lãnh đạo Đảng, Nhà nước và kích động tâm lý bất mãn trong giới trẻ.",
+          "C": "Tuyên truyền phổ biến pháp luật về an ninh mạng cho học sinh, sinh viên.",
+          "D": "Ngăn chặn các luồng thông tin độc hại xâm nhập vào môi trường giáo dục đại học. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 03 - Mã đề 303) Page 8 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 46,
+        "question": "Trách nhiệm của sinh viên trong công tác phòng, chống chiến lược \"Diễn biến hòa bình\", bạo loạn lật đổ là gì?",
+        "options": {
+          "A": "Tuyệt đối không sử dụng mạng xã hội và các phương tiện truyền thông hiện đại.",
+          "B": "Giữ thái độ thờ ơ trước các vấn đề chính trị - xã hội của đất nước để tập trung học ngoại ngữ.",
+          "C": "Nâng cao bản lĩnh chính trị, sức đề kháng trước thông tin xấu độc; tích cực học tập, rèn luyện và đấu tranh phản bác các quan điểm sai trái, thù địch.",
+          "D": "Chỉ tham gia đấu tranh phản bác khi được trả thù lao vật chất từ các tổ chức đoàn thể."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 47,
+        "question": "Vị trí chiến lược của vùng đồng bào các dân tộc thiểu số ở Việt Nam được thể hiện ở đặc điểm nào?",
+        "options": {
+          "A": "Cư trú chủ yếu ở vùng núi cao, biên giới, vùng sâu, vùng xa – những địa bàn có vị trí trọng yếu về quốc phòng, an ninh, sinh thái và nguồn tài nguyên lớn.",
+          "B": "Cư trú tập trung tại các khu đô thị trung tâm và các đặc khu kinh tế ven biển.",
+          "C": "Là khu vực có mật độ dân số cao nhất và hạ tầng giao thông phát triển nhất cả nước.",
+          "D": "Không có đường biên giới tiếp giáp với bất kỳ quốc gia láng giềng nào."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 48,
+        "question": "Thủ đoạn phổ biến của các thế lực thù địch nhằm phá hoại khối đại đoàn kết dân tộc ở Việt Nam là gì?",
+        "options": {
+          "A": "Tài trợ xây dựng trường học và bệnh viện miễn phí cho đồng bào vùng cao.",
+          "B": "Kích động tư tưởng dân tộc hẹp hòi, ly khai, tự trị; xuyên tạc chính sách dân tộc của Đảng, Nhà nước và khoét sâu chênh lệch phát triển giữa các vùng.",
+          "C": "Khuyến khích bảo tồn các lễ hội văn hóa truyền thống tốt đẹp của các dân tộc anh em.",
+          "D": "Vận động đồng bào các dân tộc thiểu số tích cực tham gia xây dựng nông thôn mới."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 49,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguồn gốc ra đời và tồn tại của tôn giáo bao gồm những nguồn gốc nào?",
+        "options": {
+          "A": "Nguồn gốc tự nhiên, kinh tế - xã hội; nguồn gốc nhận thức và nguồn gốc tâm lý.",
+          "B": "Nguồn gốc di truyền sinh học và nguồn gốc địa lý khí hậu.",
+          "C": "Nguồn gốc thương mại quốc tế và nguồn gốc giao lưu nghệ thuật.",
+          "D": "Nguồn gốc quân sự và nguồn gốc ngoại giao giữa các nhà nước cổ đại."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 50,
+        "question": "Trong giải quyết vấn đề tôn giáo hiện nay, Đảng ta yêu cầu phải phân biệt rõ hai mặt nào?",
+        "options": {
+          "A": "Phân biệt giữa tôn giáo nội sinh và tôn giáo du nhập từ nước ngoài.",
+          "B": "Phân biệt giữa các tôn giáo có đông tín đồ và các tôn giáo có ít tín đồ.",
+          "C": "Phân biệt rõ mặt chính trị và mặt tư tưởng trong vấn đề tôn giáo; tôn trọng nhu cầu tín ngưỡng chính đáng của quần chúng đồng thời kiên quyết đấu tranh với hành vi lợi dụng tôn giáo chống phá đất nước.",
+          "D": "Phân biệt giữa quyền tự do tín ngưỡng của người lớn tuổi và quyền của thanh thiếu niên."
+        },
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "code": "404",
+    "title": "Đề số 04",
+    "duration": 50,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Học phần 1 của môn học Giáo dục Quốc phòng và An ninh nghiên cứu nội dung trọng tâm nào?",
+        "options": {
+          "A": "Đường lối quốc phòng và an ninh của Đảng Cộng sản Việt Nam.",
+          "B": "Kỹ thuật chiến đấu bộ binh và chiến thuật phân đội.",
+          "C": "Điều lệnh đội ngũ từng người có súng và không có súng.",
+          "D": "Công tác phòng không nhân dân và phòng chống vũ khí hủy diệt lớn."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 2,
+        "question": "Việc kết hợp giữa dạy học trên giảng đường với tham quan thực tế, xem phim tư liệu lịch sử quân sự thuộc nhóm phương pháp nào?",
+        "options": {
+          "A": "Phương pháp kiểm tra đánh giá định kỳ.",
+          "B": "Phương pháp trực quan sinh động kết hợp lý luận với thực tiễn.",
+          "C": "Phương pháp thực nghiệm phòng thí nghiệm hóa học.",
+          "D": "Phương pháp điều tra xã hội học độc lập."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 3,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, chiến tranh là một hiện tượng có tính chất gì?",
+        "options": {
+          "A": "Là hiện tượng sinh học tự nhiên tồn tại vĩnh viễn cùng với loài người.",
+          "B": "Là hiện tượng tâm lý ngẫu nhiên xuất phát từ lòng tham của một số cá nhân.",
+          "C": "Là hiện tượng chính trị - xã hội có tính lịch sử, chỉ xuất hiện và tồn tại trong những giai đoạn lịch sử nhất định.",
+          "D": "Là hiện tượng siêu nhiên do ý chí của các lực lượng thần bí sắp đặt."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 4,
+        "question": "Mối quan hệ giữa chính trị và chiến tranh theo quan điểm của chủ nghĩa Mác - Lênin được thể hiện như thế nào?",
+        "options": {
+          "A": "Chiến tranh quyết định hoàn toàn đường lối chính trị của nhà nước trong thời bình.",
+          "B": "Chính trị và chiến tranh là hai lĩnh vực tách rời, không ảnh hưởng lẫn nhau.",
+          "C": "Khi chiến tranh nổ ra thì chính trị chấm dứt vai trò chỉ đạo của mình.",
+          "D": "Chính trị chi phối và quyết định chiến tranh; ngược lại chiến tranh tác động mạnh mẽ trở lại chính trị, có thể đẩy nhanh hoặc làm chậm tiến trình phát triển chính trị. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 1 of 10"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 5,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, quân đội chỉ mất đi khi nào?",
+        "options": {
+          "A": "Khi các nước hoàn tất việc cắt giảm 50% ngân sách quốc phòng.",
+          "B": "Khi giai cấp, nhà nước và những điều kiện sinh ra nó (chế độ tư hữu, áp bức bóc lột) tiêu vong hoàn toàn.",
+          "C": "Khi công nghệ robot thay thế hoàn toàn con người trong các hoạt động bảo vệ an ninh.",
+          "D": "Khi tất cả các quốc gia gia nhập vào một tổ chức thương mại chung."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 6,
+        "question": "Trong tư tưởng Hồ Chí Minh, phương thức tiến hành chiến tranh chống xâm lược của nhân dân Việt Nam là gì?",
+        "options": {
+          "A": "Dựa vào sức mạnh của toàn dân, tiến hành chiến tranh toàn dân, toàn diện, trường kỳ và dựa vào sức mình là chính.",
+          "B": "Chỉ dựa vào lực lượng quân đội chính quy đánh các trận quyết chiến quy ước.",
+          "C": "Kêu gọi sự can thiệp quân sự trực tiếp của quân đội các nước lớn ngay từ đầu.",
+          "D": "Sử dụng chiến thuật phòng ngự thụ động tại các đô thị lớn để chờ đối phương tự rút lui."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 7,
+        "question": "Vì sao Chủ tịch Hồ Chí Minh khẳng định: \"Trung với Đảng, hiếu với dân\" là phẩm chất hàng đầu của Quân đội nhân dân Việt Nam?",
+        "options": {
+          "A": "Vì Đảng là người tổ chức, lãnh đạo, giáo dục, rèn luyện quân đội; còn quân đội từ nhân dân mà ra, vì nhân dân mà chiến đấu.",
+          "B": "Vì quân đội nhận toàn bộ lương thực và vũ khí trực tiếp từ các hộ gia đình nông dân.",
+          "C": "Vì quân đội không chịu sự quản lý của Nhà nước và pháp luật hiện hành.",
+          "D": "Vì đó là khẩu hiệu truyền thống có từ thời phong kiến của các triều đại Việt Nam."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "Nội dung bảo vệ Tổ quốc xã hội chủ nghĩa theo tư tưởng Hồ Chí Minh bao gồm những phương diện nào?",
+        "options": {
+          "A": "Chỉ bảo vệ biên giới trên đất liền và các khu vực đặt trụ sở cơ quan Trung ương.",
+          "B": "Bảo vệ toàn vẹn lãnh thổ (đất liền, vùng trời, vùng biển, hải đảo), bảo vệ độc lập dân tộc, chế độ xã hội chủ nghĩa, Đảng, Nhà nước, nhân dân và bản sắc văn hóa dân tộc.",
+          "C": "Chỉ bảo vệ các cơ sở kinh tế quốc doanh và các công trình thủy điện lớn.",
+          "D": "Chỉ bảo vệ chủ quyền trên không gian mạng và hệ thống tài chính ngân hàng."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "Nguyên tắc xây dựng quân đội kiểu mới của V.I. Lênin xác định yếu tố nào là nguồn sức mạnh vô địch của Hồng quân?",
+        "options": {
+          "A": "Kỷ luật sắt tự giác của quân đội cách mạng và sự đoàn kết thống nhất với nhân dân lao động.",
+          "B": "Chế độ đãi ngộ vật chất cao hơn gấp nhiều lần so với tầng lớp công nhân công nghiệp.",
+          "C": "Sự độc quyền nắm giữ các loại vũ khí hóa học và pháo binh hạng nặng.",
+          "D": "Việc tuyển dụng toàn bộ đội ngũ sĩ quan từ quân đội của chế độ cũ."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "question": "Đặc trưng nào thể hiện tính chất \"toàn diện\" của nền quốc phòng toàn dân, an ninh nhân dân Việt Nam?",
+        "options": {
+          "A": "Chỉ tập trung xây dựng sức mạnh quân sự và lực lượng cảnh sát cơ động.",
+          "B": "Xây dựng sức mạnh tổng hợp trên tất cả các lĩnh vực: chính trị, tư tưởng, kinh tế, văn hóa, xã hội, khoa học công nghệ, quân sự, an ninh và đối ngoại.",
+          "C": "Huy động 100% dân số nhập ngũ vào quân đội thường trực trong thời bình.",
+          "D": "Chỉ triển khai xây dựng tiềm lực quốc phòng tại các tỉnh có đường biên giới quốc gia. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 2 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Tiềm lực quân sự, an ninh trong nền quốc phòng toàn dân, an ninh nhân dân được biểu hiện tập trung ở yếu tố nào?",
+        "options": {
+          "A": "Khả năng về vật chất và tinh thần có thể huy động tạo thành sức mạnh phục vụ cho nhiệm vụ quân sự, an ninh, trực tiếp là sức mạnh chiến đấu của lực lượng vũ trang nhân dân.",
+          "B": "Tổng sản phẩm quốc nội (GDP) bình quân đầu người của khu vực kinh tế tư nhân.",
+          "C": "Số lượng các hiệp định thương mại tự do song phương đã ký kết với nước ngoài.",
+          "D": "Mức độ phát triển của ngành du lịch dịch vụ và thương mại điện tử."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Nguyên tắc cơ bản trong xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân là gì?",
+        "options": {
+          "A": "Tập trung toàn bộ lực lượng vào một hướng chiến lược duy nhất để giảm chi phí đầu tư.",
+          "B": "Tách rời hoàn toàn thế trận quốc phòng với thế trận an ninh để dễ phân công trách nhiệm.",
+          "C": "Bố trí thế trận rộng khắp trên cả nước nhưng có trọng tâm, trọng điểm; kết hợp thế trận địa phương với thế trận cả nước.",
+          "D": "Chỉ bố trí thế trận ở các đô thị lớn, bỏ trống các địa bàn vùng sâu, vùng xa."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 13,
+        "question": "Mối quan hệ giữa củng cố quốc phòng và bảo vệ an ninh quốc gia được Đảng ta xác định như thế nào?",
+        "options": {
+          "A": "Củng cố quốc phòng chỉ nhằm chống ngoại xâm, còn bảo vệ an ninh chỉ nhằm chống tội phạm hình sự.",
+          "B": "Hai nhiệm vụ này có sự đối lập về mục tiêu nên cần phân bổ ngân sách tách biệt hoàn toàn.",
+          "C": "Củng cố quốc phòng có vị trí cao hơn, thay thế hoàn toàn nhiệm vụ bảo vệ an ninh quốc gia.",
+          "D": "Là hai mặt của một vấn đề thống nhất, gắn bó chặt chẽ, tác động qua lại và hỗ trợ lẫn nhau trong sự nghiệp bảo vệ Tổ quốc."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 14,
+        "question": "Đặc điểm nổi bật của chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa trong tương lai (nếu xảy ra) là gì?",
+        "options": {
+          "A": "Là cuộc chiến tranh chính nghĩa, tự vệ cách mạng; kết hợp đánh địch bằng vũ khí truyền thống với đối phó chiến tranh công nghệ cao của địch.",
+          "B": "Là cuộc chiến tranh tiến công xâm lược nhằm mở rộng không gian sinh tồn ra ngoài biên giới.",
+          "C": "Là cuộc chiến tranh thuần túy trên không gian mạng, không có sự tham gia của lực lượng bộ binh.",
+          "D": "Là cuộc chiến tranh diễn ra hoàn toàn ở ngoài lãnh thổ Việt Nam."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, mặt trận đấu tranh nào giữ vai trò quyết định trực tiếp đến việc tiêu diệt sinh lực địch và giải phóng đất đai?",
+        "options": {
+          "A": "Đấu tranh ngoại giao.",
+          "B": "Đấu tranh quân sự.",
+          "C": "Đấu tranh kinh tế.",
+          "D": "Đấu tranh tư tưởng - văn hóa."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 16,
+        "question": "Ý nghĩa của việc chuẩn bị mọi mặt trên cả nước cũng như từng khu vực ngay từ thời bình đối với chiến tranh nhân dân bảo vệ Tổ quốc là gì?",
+        "options": {
+          "A": "Nhằm tạo thế chủ động chiến lược, sẵn sàng chuyển đất nước từ thời bình sang thời chiến nhanh chóng, hạn chế tổn thất khi chiến tranh xảy ra.",
+          "B": "Nhằm mục đích răn đe và gây sức ép quân sự đối với các quốc gia láng giềng.",
+          "C": "Nhằm chuyển toàn bộ nền kinh tế đất nước sang trạng thái thời chiến ngay trong thời bình.",
+          "D": "Nhằm thay thế các hoạt động đối ngoại hòa bình bằng các biện pháp quân sự. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 3 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Trong lực lượng vũ trang nhân dân ba thứ quân, lực lượng nào là lực lượng cơ động chiến lược trên phạm vi cả nước?",
+        "options": {
+          "A": "Dân quân tự vệ cơ động.",
+          "B": "Bộ đội địa phương cấp tỉnh.",
+          "C": "Bộ đội chủ lực (các quân đoàn, binh đoàn, quân binh chủng thuộc Bộ Quốc phòng).",
+          "D": "Lực lượng bảo vệ dân phố ở các phường, thị trấn."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 18,
+        "question": "Một trong những nhiệm vụ của lực lượng vũ trang nhân dân trong thời bình là gì?",
+        "options": {
+          "A": "Trực tiếp quản lý việc thu thuế và cấp giấy phép kinh doanh tại các địa phương.",
+          "B": "Sẵn sàng chiến đấu bảo vệ Tổ quốc; giữ gìn an ninh chính trị, trật tự an toàn xã hội; tham gia lao động sản xuất, phát triển kinh tế và phòng chống thiên tai, cứu hộ cứu nạn.",
+          "C": "Thay thế các cơ quan hành chính nhà nước trong việc giải quyết các tranh chấp dân sự.",
+          "D": "Chỉ tập trung huấn luyện trong doanh trại, không tham gia các hoạt động xã hội bên ngoài."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 19,
+        "question": "Vì sao trong xây dựng lực lượng vũ trang nhân dân phải luôn coi trọng nâng cao chất lượng tổng hợp, lấy chất lượng làm chính?",
+        "options": {
+          "A": "Vì ngân sách nhà nước không cho phép duy trì lực lượng vũ trang thường trực dưới bất kỳ quy mô nào.",
+          "B": "Vì yêu cầu bảo vệ Tổ quốc trong điều kiện chiến tranh hiện đại đòi hỏi lực lượng vũ trang phải có bản lĩnh chính trị vững vàng, trình độ tác chiến cao, tinh gọn, cơ động nhanh.",
+          "C": "Vì số lượng thanh niên trong độ tuổi nhập ngũ hiện nay không đủ để bổ sung cho quân đội.",
+          "D": "Vì chiến tranh hiện đại chỉ sử dụng vũ khí tự động mà không cần đến yếu tố con người."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 20,
+        "question": "Giải pháp quan trọng nhằm bảo đảm hậu cần, kỹ thuật cho lực lượng vũ trang nhân dân hiện nay là gì?",
+        "options": {
+          "A": "Nhập khẩu 100% lương thực, thực phẩm và quân trang từ thị trường nước ngoài.",
+          "B": "Đẩy mạnh phát triển công nghiệp quốc phòng, an ninh theo hướng tự chủ, tự cường, hiện đại, lưỡng dụng; kết hợp bảo đảm hậu cần tại chỗ với hậu cần cơ động.",
+          "C": "Giao toàn bộ công tác bảo đảm vũ khí, đạn dược cho các doanh nghiệp tư nhân tự sản xuất.",
+          "D": "Cắt giảm hoàn toàn ngân sách nghiên cứu khoa học kỹ thuật quân sự để mua sắm vũ khí cũ."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 21,
+        "question": "Trong xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân, tiêu chuẩn hàng đầu được Đảng ta đặt ra là gì?",
+        "options": {
+          "A": "Phải có tiềm lực tài chính cá nhân vững mạnh.",
+          "B": "Phải có bằng cấp đào tạo ở các trường quân sự nước ngoài.",
+          "C": "Phải có bản lĩnh chính trị kiên định, tuyệt đối trung thành với Đảng, Tổ quốc và nhân dân; có phẩm chất đạo đức cách mạng trong sáng và năng lực chuyên môn giỏi.",
+          "D": "Phải có chiều cao và thể lực vượt trội hơn tất cả các chiến sĩ trong đơn vị."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 22,
+        "question": "Sự tác động trở lại của quốc phòng - an ninh đối với phát triển kinh tế - xã hội được thể hiện như thế nào?",
+        "options": {
+          "A": "Quốc phòng - an ninh chỉ tiêu tốn ngân sách mà không tạo ra bất kỳ lợi ích nào cho kinh tế.",
+          "B": "Quốc phòng - an ninh quyết định trực tiếp cơ cấu xuất nhập khẩu hàng hóa của quốc gia.",
+          "C": "Quốc phòng - an ninh thay thế vai trò của thị trường trong việc phân bổ nguồn lực sản xuất.",
+          "D": "Quốc phòng - an ninh vững mạnh tạo môi trường hòa bình, ổn định để thu hút đầu tư, phát triển kinh tế; đồng thời trực tiếp tham gia sản xuất, nghiên cứu khoa học công nghệ phục vụ dân sinh. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 4 of 10"
+        },
+        "answer": "D"
+      },
+      {
+        "number": 23,
+        "question": "Trong kết hợp phát triển kinh tế - xã hội với quốc phòng - an ninh trong lĩnh vực nông, lâm, ngư nghiệp, cần chú trọng nội dung nào?",
+        "options": {
+          "A": "Chuyển đổi toàn bộ đất trồng lúa sang xây dựng các sân bay quân sự và thao trường huấn luyện.",
+          "B": "Bảo đảm an ninh lương thực quốc gia, phát triển kinh tế trang trại, lâm nghiệp gắn với bảo vệ rừng đầu nguồn, bố trí dân cư hợp lý ở vùng biên giới, hải đảo.",
+          "C": "Hạn chế phát triển đánh bắt thủy sản xa bờ để tiết kiệm nhiên liệu cho quốc phòng.",
+          "D": "Nhập khẩu toàn bộ lương thực từ nước ngoài để dành đất nông nghiệp cho công nghiệp nặng."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 24,
+        "question": "Kết hợp kinh tế - xã hội với quốc phòng - an ninh trong lĩnh vực y tế được thực hiện thông qua mô hình hiệu quả nào?",
+        "options": {
+          "A": "Kết hợp quân - dân y trong chăm sóc sức khỏe nhân dân, phòng chống dịch bệnh, đặc biệt ở vùng sâu, vùng xa, biên giới, hải đảo và sẵn sàng cứu chữa thương bệnh binh khi có chiến tranh.",
+          "B": "Đóng cửa toàn bộ các bệnh viện quân y trong thời bình để tiết kiệm ngân sách nhà nước.",
+          "C": "Cấm các bệnh viện dân sự tiếp nhận khám chữa bệnh cho cán bộ, chiến sĩ lực lượng vũ trang.",
+          "D": "Chuyển giao toàn bộ hệ thống trạm y tế xã cho Bộ Quốc phòng quản lý hành chính."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Trong hoạt động đối ngoại, việc kết hợp kinh tế với quốc phòng - an ninh đòi hỏi nguyên tắc nào?",
+        "options": {
+          "A": "Chỉ hợp tác kinh tế với các quốc gia có cùng chế độ chính trị - xã hội.",
+          "B": "Hy sinh một phần chủ quyền an ninh quốc gia để đổi lấy các khoản vay ưu đãi từ nước ngoài.",
+          "C": "Đa phương hóa, đa dạng hóa quan hệ quốc tế trên nguyên tắc bình đẳng, cùng có lợi, giữ vững độc lập, tự chủ và bảo đảm an ninh quốc gia, trật tự an toàn xã hội.",
+          "D": "Tham gia các liên minh quân sự khu vực để được bảo hộ về an ninh và kinh tế."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 26,
+        "question": "Kế sách \"Thanh dã\" (vườn không nhà trống) được nhà Trần sử dụng thành công trong các cuộc kháng chiến chống quân Nguyên - Mông nhằm mục đích gì?",
+        "options": {
+          "A": "Triệt nguồn lương thực, hậu cần tại chỗ của quân xâm lược, làm cho đội quân viễn chinh đông đảo của địch rơi vào thế cô lập, đói khát và suy yếu nhanh chóng.",
+          "B": "Nhường hẳn kinh thành Thăng Long và vùng đồng bằng Bắc Bộ cho quân Nguyên cai trị lâu dài.",
+          "C": "Thể hiện thái độ thần phục và tránh mọi cuộc giao tranh vũ trang với quân Nguyên.",
+          "D": "Chuẩn bị điều kiện để di cư toàn bộ dân tộc sang sinh sống tại vùng lãnh thổ phía Nam."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Nghệ thuật hành quân thần tốc, táo bạo, bất ngờ đánh thẳng vào sào huyệt địch trong dịp Tết Kỷ Dậu (năm 1789) gắn liền với tên tuổi của vị anh hùng nào?",
+        "options": {
+          "A": "Ngô Quyền.",
+          "B": "Lê Hoàn.",
+          "C": "Lý Thường Kiệt.",
+          "D": "Quang Trung - Nguyễn Huệ."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 28,
+        "question": "Chiến thắng \"Hà Nội - Điện Biên Phủ trên không\" tháng 12/1972 là thắng lợi đỉnh cao của nghệ thuật tác chiến nào của quân và dân ta?",
+        "options": {
+          "A": "Nghệ thuật tác chiến phòng không nhân dân đánh bại cuộc tập kích đường không chiến lược bằng máy bay B-52 của đế quốc Mỹ.",
+          "B": "Nghệ thuật tác chiến đổ bộ đường biển quy mô lớn giải phóng các quần đảo xa bờ.",
+          "C": "Nghệ thuật tác chiến hiệp đồng binh chủng tiến công vào các căn cứ hải quân địch.",
+          "D": "Nghệ thuật chiến tranh du kích đánh phá giao thông thủy bộ của địch ở đồng bằng sông Cửu Long. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 5 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Trong nghệ thuật quân sự Việt Nam hiện đại, mối quan hệ giữa ba bộ phận cấu thành (chiến lược quân sự, nghệ thuật chiến dịch, chiến thuật) được xác định như thế nào?",
+        "options": {
+          "A": "Chiến thuật quyết định chiến lược quân sự và nghệ thuật chiến dịch.",
+          "B": "Chiến lược quân sự giữ vai trò chủ đạo, chỉ đạo nghệ thuật chiến dịch và chiến thuật; ngược lại thắng lợi của chiến thuật và chiến dịch góp phần thực hiện thắng lợi chiến lược.",
+          "C": "Ba bộ phận này hoạt động hoàn toàn độc lập, không có sự ràng buộc lẫn nhau.",
+          "D": "Nghệ thuật chiến dịch chỉ áp dụng trong thời bình, còn chiến thuật chỉ áp dụng trong thời chiến."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 30,
+        "question": "Đường cơ sở dùng để tính chiều rộng lãnh hải của Việt Nam được xác định như thế nào theo Luật Biển Việt Nam năm 2012?",
+        "options": {
+          "A": "Là đường ngấn nước thủy triều cao nhất dọc theo bờ biển đất liền.",
+          "B": "Là đường thẳng nối liền hai điểm cực Bắc và cực Nam của lãnh thổ đất liền.",
+          "C": "Là đường cơ sở thẳng đã được Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam công bố (theo Tuyên bố ngày 12/11/1982) và các quy định của pháp luật quốc tế.",
+          "D": "Là ranh giới ngoài của vùng đặc quyền kinh tế rộng 200 hải lý."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 31,
+        "question": "Theo quy định của pháp luật quốc tế và Luật Biển Việt Nam năm 2012, tàu thuyền nước ngoài có quyền gì khi đi qua lãnh hải của Việt Nam?",
+        "options": {
+          "A": "Được tự do tiến hành các cuộc diễn tập quân sự và phóng thử tên lửa trong lãnh hải Việt Nam.",
+          "B": "Được tự do khai thác tài nguyên thủy sản và thăm dò khoáng sản dưới đáy lãnh hải Việt Nam.",
+          "C": "Không được phép đi qua lãnh hải Việt Nam dưới bất kỳ hình thức nào.",
+          "D": "Được hưởng quyền đi qua không gây hại trong lãnh hải Việt Nam với điều kiện phải tôn trọng hòa bình, độc lập, chủ quyền và pháp luật Việt Nam."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 32,
+        "question": "Biên giới quốc gia trong lòng đất được xác định như thế nào?",
+        "options": {
+          "A": "Là mặt thẳng đứng từ biên giới quốc gia trên đất liền và biên giới quốc gia trên biển xuống lòng đất.",
+          "B": "Chỉ tính đến độ sâu tối đa 500 mét tính từ bề mặt địa hình tự nhiên.",
+          "C": "Chỉ áp dụng đối với khu vực biên giới trên đất liền, không áp dụng đối với biên giới trên biển.",
+          "D": "Được xác định theo vị trí các mỏ khoáng sản nằm dọc theo khu vực biên giới."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Quần đảo Hoàng Sa và quần đảo Trường Sa thuộc chủ quyền của Việt Nam nằm ở vùng biển nào?",
+        "options": {
+          "A": "Biển Đông.",
+          "B": "Vịnh Thái Lan.",
+          "C": "Biển Hoa Đông.",
+          "D": "Ấn Độ Dương."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Luật Dân quân tự vệ năm 2019 quy định cơ quan nào chỉ huy trực tiếp lực lượng Dân quân tự vệ ở địa phương?",
+        "options": {
+          "A": "Công an xã, phường, thị trấn.",
+          "B": "Cơ quan quân sự địa phương các cấp (Ban Chỉ huy quân sự cấp xã, cấp huyện và Bộ Chỉ huy quân sự cấp tỉnh).",
+          "C": "Ủy ban Mặt trận Tổ quốc Việt Nam các cấp.",
+          "D": "Tòa án nhân dân và Viện kiểm sát nhân dân cùng cấp. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 6 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 35,
+        "question": "Trong xây dựng lực lượng Dân quân tự vệ, vì sao phải chú trọng chất lượng chính trị, độ tin cậy của cán bộ, chiến sĩ?",
+        "options": {
+          "A": "Vì Dân quân tự vệ hoạt động trực tiếp tại cơ sở, nắm giữ vũ khí và trực tiếp bảo vệ Đảng, chính quyền, tính mạng, tài sản của nhân dân ở địa phương.",
+          "B": "Vì Dân quân tự vệ là lực lượng trực tiếp hoạch định đường lối đối ngoại quốc phòng của Nhà nước.",
+          "C": "Vì Dân quân tự vệ được hưởng chế độ lương và phụ cấp cao nhất trong hệ thống chính trị.",
+          "D": "Vì Dân quân tự vệ không chịu sự quản lý của chính quyền địa phương."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "Phương tiện kỹ thuật dự bị được huy động bổ sung cho lực lượng thường trực của Quân đội khi có lệnh động viên thuộc sở hữu của đối tượng nào?",
+        "options": {
+          "A": "Chỉ thuộc sở hữu của các đơn vị quân đội đang tại ngũ.",
+          "B": "Chỉ thuộc sở hữu của các tổ chức phi chính phủ nước ngoài đang hoạt động tại Việt Nam.",
+          "C": "Thuộc sở hữu của cơ quan, tổ chức và công dân Việt Nam đã được đăng ký, quản lý trong kế hoạch huy động dự bị động viên theo quy định của pháp luật.",
+          "D": "Chỉ thuộc sở hữu của các doanh nghiệp quốc phòng trực thuộc Bộ Quốc phòng."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 37,
+        "question": "Công tác huấn luyện, diễn tập, kiểm tra sẵn sàng động viên, sẵn sàng chiến đấu đối với lực lượng dự bị động viên có ý nghĩa gì?",
+        "options": {
+          "A": "Nhằm duy trì và nâng cao trình độ kỹ thuật, chiến thuật, khả năng hiệp đồng chiến đấu của các đơn vị dự bị động viên, bảo đảm sẵn sàng hoàn thành nhiệm vụ khi được huy động.",
+          "B": "Nhằm tuyển chọn toàn bộ quân nhân dự bị trở lại phục vụ tại ngũ lâu dài trong thời bình.",
+          "C": "Nhằm thay thế hoàn toàn nghĩa vụ tham gia dân quân tự vệ của công dân ở địa phương.",
+          "D": "Nhằm mục đích biểu diễn phục vụ các ngày lễ hội văn hóa tại địa phương."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 38,
+        "question": "Yếu tố nào quyết định sự thành công và tính bền vững của phong trào toàn dân bảo vệ an ninh Tổ quốc?",
+        "options": {
+          "A": "Mức độ trang bị vũ khí hiện đại cho từng hộ gia đình trong khu dân cư.",
+          "B": "Sự lãnh đạo chặt chẽ của các cấp ủy Đảng, sự quản lý điều hành của chính quyền, vai trò tham mưu nòng cốt của lực lượng Công an và sự tự giác tham gia của quần chúng nhân dân.",
+          "C": "Việc áp dụng các biện pháp xử phạt hành chính nặng đối với người dân không tham gia tuần tra.",
+          "D": "Nguồn tài trợ thường xuyên từ các tổ chức an ninh quốc tế."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 39,
+        "question": "Trong công tác vận động quần chúng tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc, phương pháp tuyên truyền hiệu quả nhất là gì?",
+        "options": {
+          "A": "Chỉ phát hành các văn bản luật chuyên ngành dày hàng trăm trang cho người dân tự nghiên cứu.",
+          "B": "Cấm người dân tiếp cận thông tin về tình hình tội phạm trên địa bàn để tránh gây hoang mang.",
+          "C": "Kết hợp đa dạng các hình thức tuyên truyền trực tiếp, truyền thông đại chúng, mạng xã hội và thông qua người có uy tín trong cộng đồng với nội dung thiết thực, dễ hiểu.",
+          "D": "Chỉ tổ chức tuyên truyền một lần duy nhất vào dịp kỷ niệm Ngày Quốc khánh 2/9 hàng năm. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 7 of 10"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 40,
+        "question": "Mô hình \"Camera an ninh\", \"Tổ liên gia tự quản về an ninh trật tự\", \"Cổng trường an toàn giao thông\" là biểu hiện sinh động của nội dung nào?",
+        "options": {
+          "A": "Hoạt động kinh doanh dịch vụ viễn thông của các doanh nghiệp nhà nước.",
+          "B": "Các mô hình quần chúng tự quản trong phong trào toàn dân bảo vệ an ninh Tổ quốc ở cơ sở.",
+          "C": "Hệ thống phòng thủ quân sự cấp chiến lược của Bộ Quốc phòng.",
+          "D": "Chương trình cải cách thủ tục hành chính trong lĩnh vực thuế và hải quan."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 41,
+        "question": "Lực lượng chuyên trách bảo vệ an ninh quốc gia bao gồm những cơ quan, đơn vị nào theo quy định của Luật An ninh quốc gia?",
+        "options": {
+          "A": "Cơ quan chỉ đạo, chỉ huy và các đơn vị an ninh, tình báo, cảnh vệ Công an nhân dân; cơ quan chỉ đạo, chỉ huy và các đơn vị bảo vệ an ninh quân đội, tình báo Quân đội nhân dân; Bộ đội Biên phòng, Cảnh sát biển là lực lượng chuyên trách bảo vệ an ninh quốc gia ở khu vực biên giới trên đất liền và trên biển.",
+          "B": "Toàn bộ cán bộ, công chức làm việc tại các cơ quan hành chính sự nghiệp từ Trung ương đến cấp xã.",
+          "C": "Các doanh nghiệp cung cấp dịch vụ bảo vệ tư nhân được cấp phép hoạt động trên toàn quốc.",
+          "D": "Các tổ chức đoàn thể chính trị - xã hội và các hội nghề nghiệp tại địa phương."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 42,
+        "question": "Trong tình hình mới, yếu tố nào được coi là thách thức an ninh phi truyền thống nổi cộm đe dọa trực tiếp đến an ninh quốc gia và trật tự, an toàn xã hội?",
+        "options": {
+          "A": "Tội phạm sử dụng công nghệ cao, an ninh mạng, biến đổi khí hậu, dịch bệnh xuyên biên giới, an ninh nguồn nước và buôn lậu ma túy xuyên quốc gia.",
+          "B": "Các cuộc hành quân quy mô lớn của kỵ binh qua biên giới trên bộ.",
+          "C": "Sự cạnh tranh thương mại hợp pháp giữa các doanh nghiệp xuất khẩu nông sản.",
+          "D": "Hoạt động giao lưu văn hóa, nghệ thuật truyền thống giữa các nước trong khu vực ASEAN."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 43,
+        "question": "Quyền và nghĩa vụ của công dân trong bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội được thể hiện như thế nào?",
+        "options": {
+          "A": "Công dân có quyền từ chối cung cấp thông tin khi cơ quan điều tra yêu cầu làm chứng về hành vi xâm phạm an ninh quốc gia.",
+          "B": "Bảo vệ an ninh quốc gia là quyền và nghĩa vụ của mọi công dân; công dân có trách nhiệm tuân thủ pháp luật, tố giác hành vi xâm phạm an ninh quốc gia và hỗ trợ lực lượng chức năng khi được huy động.",
+          "C": "Chỉ những công dân đang công tác trong các cơ quan nhà nước mới có nghĩa vụ bảo vệ an ninh quốc gia.",
+          "D": "Công dân được tự do lưu giữ và phát tán tài liệu thuộc danh mục bí mật nhà nước vì mục đích nghiên cứu cá nhân."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 44,
+        "question": "Âm mưu \"phi chính trị hóa\" lực lượng vũ trang của các thế lực thù địch trong chiến lược \"Diễn biến hòa bình\" nhằm mục đích gì?",
+        "options": {
+          "A": "Nâng cao trình độ tác chiến kỹ thuật hiện đại cho Quân đội nhân dân và Công an nhân dân.",
+          "B": "Tách lực lượng vũ trang khỏi sự lãnh đạo của Đảng Cộng sản Việt Nam, làm mất phương hướng chính trị và vô hiệu hóa công cụ bảo vệ Đảng, bảo vệ chế độ.",
+          "C": "Giúp lực lượng vũ trang tiết kiệm thời gian sinh hoạt chính trị để tập trung rèn luyện thể lực.",
+          "D": "Tăng cường mối quan hệ đoàn kết gắn bó giữa lực lượng vũ trang với nhân dân các dân tộc. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 8 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 45,
+        "question": "Một trong những thủ đoạn chống phá của các thế lực thù địch trên lĩnh vực đối ngoại đối với Việt Nam là gì?",
+        "options": {
+          "A": "Ủng hộ Việt Nam giữ vững đường lối đối ngoại độc lập, tự chủ, đa phương hóa, đa dạng hóa.",
+          "B": "Tìm cách chia rẽ mối quan hệ hữu nghị truyền thống giữa Việt Nam với các nước láng giềng và các đối tác chiến lược; kích động tâm lý bài ngoại hoặc lệ thuộc nước ngoài.",
+          "C": "Hỗ trợ Việt Nam nâng cao vị thế và uy tín tại Hội đồng Bảo an Liên hợp quốc.",
+          "D": "Thúc đẩy ký kết các hiệp định hợp tác khoa học công nghệ bình đẳng với Việt Nam."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 46,
+        "question": "Phương châm đấu tranh phòng, chống \"Diễn biến hòa bình\", bạo loạn lật đổ của Đảng và Nhà nước ta là gì?",
+        "options": {
+          "A": "Chủ động, kiên quyết, khôn khéo, xử lý đúng đắn, kịp thời các tình huống, không để bị động, bất ngờ; kết hợp chặt chẽ giữa \"xây\" và \"chống\", lấy \"xây\" là chính.",
+          "B": "Chỉ tập trung vào biện pháp \"chống\" bằng sức mạnh quân sự, bỏ qua công tác xây dựng nội bộ.",
+          "C": "Chờ đợi các vụ bạo loạn bùng phát trên diện rộng rồi mới tiến hành các biện pháp trấn áp.",
+          "D": "Nhượng bộ các yêu sách chính trị của các tổ chức phản động lưu vong để giữ yên ổn tạm thời."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 47,
+        "question": "Đặc trưng văn hóa của các dân tộc ở Việt Nam được Đảng ta khẳng định như thế nào?",
+        "options": {
+          "A": "Nền văn hóa Việt Nam thống nhất trong đa dạng; mỗi dân tộc đều có bản sắc văn hóa riêng độc đáo, góp phần làm phong phú nền văn hóa chung của dân tộc Việt Nam.",
+          "B": "Chỉ có văn hóa của dân tộc đa số mới được bảo tồn và phát huy trong chương trình giáo dục quốc gia.",
+          "C": "Văn hóa các dân tộc thiểu số hoàn toàn đối lập và không có điểm chung với văn hóa truyền thống Việt Nam.",
+          "D": "Các di sản văn hóa của đồng bào dân tộc thiểu số chỉ có giá trị trong phạm vi từng bản làng riêng lẻ."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 48,
+        "question": "Nội dung nào sau đây là một trong những giải pháp đấu tranh phòng, chống sự lợi dụng vấn đề dân tộc, tôn giáo của các thế lực thù địch?",
+        "options": {
+          "A": "Hạn chế đầu tư cơ sở hạ tầng giáo dục và y tế ở các vùng có đông đồng bào theo đạo.",
+          "B": "Cấm các chức sắc tôn giáo tham gia các tổ chức chính trị - xã hội như Mặt trận Tổ quốc Việt Nam.",
+          "C": "Chăm lo phát triển kinh tế - xã hội nâng cao đời sống nhân dân; thực hiện đúng chính sách dân tộc, tôn giáo; phát huy vai trò của già làng, trưởng bản, chức sắc tôn giáo tiến bộ và kiên quyết xử lý kẻ cầm đầu lợi dụng chống phá.",
+          "D": "Sử dụng biện pháp hành chính cưỡng chế đồng bào từ bỏ tín ngưỡng truyền thống."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 49,
+        "question": "Tính chất của tôn giáo theo quan điểm của chủ nghĩa Mác - Lênin bao gồm những tính chất cơ bản nào?",
+        "options": {
+          "A": "Tính lịch sử, tính quần chúng và tính chính trị.",
+          "B": "Tính vĩnh cửu, tính giai cấp và tính khoa học thực nghiệm.",
+          "C": "Tính cá nhân tuyệt đối, tính phi lịch sử và tính thương mại.",
+          "D": "Tính thần bí siêu nhiên, tính bất biến và tính đối kháng giai cấp. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 04 - Mã đề 404) Page 9 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 50,
+        "question": "Công tác vận động quần chúng vùng đồng bào dân tộc thiểu số và đồng bào có đạo cần thực hiện theo phương châm nào?",
+        "options": {
+          "A": "Áp đặt mệnh lệnh hành chính từ cấp trên xuống mà không cần giải thích, thuyết phục.",
+          "B": "Chân thành, tích cực, thận trọng, kiên trì, tế nhị, vững chắc; tôn trọng phong tục tập quán tốt đẹp và đức tin chính đáng của nhân dân.",
+          "C": "Chỉ tiếp xúc với đồng bào thông qua các văn bản thông báo hành chính định kỳ.",
+          "D": "Giao toàn bộ công tác vận động quần chúng cho các doanh nghiệp tư nhân đầu tư tại địa phương."
+        },
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "505",
+    "title": "Đề số 05",
+    "duration": 50,
+    "questions": [
+      {
+        "number": 1,
+        "question": "Chương trình môn học Giáo dục Quốc phòng và An ninh cho sinh viên đại học, cao đẳng hiện nay được cấu trúc thành mấy học phần?",
+        "options": {
+          "A": "2 học phần.",
+          "B": "3 học phần.",
+          "C": "4 học phần.",
+          "D": "5 học phần."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 2,
+        "question": "Nghiên cứu môn học Giáo dục Quốc phòng và An ninh đòi hỏi sinh viên phải vận dụng phương pháp tư duy nào?",
+        "options": {
+          "A": "Tư duy siêu hình, máy móc, xem xét các sự kiện quân sự tách rời khỏi bối cảnh lịch sử.",
+          "B": "Tư duy kinh nghiệm chủ nghĩa thuần túy, chỉ dựa vào cảm tính cá nhân.",
+          "C": "Tư duy biện chứng duy vật, lịch sử - cụ thể, gắn lý luận quân sự với thực tiễn cách mạng Việt Nam.",
+          "D": "Tư duy quy nạp hình thức, chỉ quan tâm đến số liệu thống kê vũ khí trang bị."
+        },
+        "answer": "C"
+      },
+      {
+        "number": 3,
+        "question": "Theo quan điểm của chủ nghĩa Mác - Lênin, nguyên nhân nào dẫn đến sự ra đời của quân đội?",
+        "options": {
+          "A": "Do nhu cầu giao lưu văn hóa và thương mại giữa các bộ lạc nguyên thủy.",
+          "B": "Do sự xuất hiện của chế độ tư hữu về tư liệu sản xuất và sự phân chia xã hội thành các giai cấp đối kháng.",
+          "C": "Do yêu cầu phòng chống thiên tai, dịch bệnh trong xã hội cộng sản nguyên thủy.",
+          "D": "Do sự phát minh ra thuốc súng và các loại vũ khí bằng đồng, sắt."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 4,
+        "question": "Luận điểm \"Một cuộc cách mạng chỉ có giá trị khi nó biết tự bảo vệ\" là của nhà kinh điển nào?",
+        "options": {
+          "A": "C. Mác.",
+          "B": "Ph. Ăngghen.",
+          "C": "V.I. Lênin.",
+          "D": "Hồ Chí Minh. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 1 of 10"
+        },
+        "answer": "C"
+      },
+      {
+        "number": 5,
+        "question": "Theo tư tưởng Hồ Chí Minh, đối với các cuộc chiến tranh xâm lược của chủ nghĩa đế quốc, nhân dân Việt Nam phải có thái độ như thế nào?",
+        "options": {
+          "A": "Kiên quyết dùng bạo lực cách mạng chống lại bạo lực phản cách mạng, tiến hành chiến tranh nhân dân chính nghĩa để tự giải phóng và bảo vệ Tổ quốc.",
+          "B": "Chấp nhận thỏa hiệp chính trị, nhượng bộ chủ quyền để tránh mọi tổn thất về người và của.",
+          "C": "Chỉ sử dụng biện pháp đấu tranh nghị trường và chờ đợi sự trao trả độc lập từ chính quốc.",
+          "D": "Đứng trung lập và kêu gọi sự giám sát từ các tổ chức phi chính phủ quốc tế."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 6,
+        "question": "Ngày truyền thống của Quân đội nhân dân Việt Nam (ngày thành lập Đội Việt Nam Tuyên truyền Giải phóng quân) là ngày nào?",
+        "options": {
+          "A": "Ngày 19/8/1945.",
+          "B": "Ngày 02/9/1945.",
+          "C": "Ngày 19/12/1946.",
+          "D": "Ngày 22/12/1944."
+        },
+        "answer": "D"
+      },
+      {
+        "number": 7,
+        "question": "Vì sao Chủ tịch Hồ Chí Minh khẳng định \"Đoàn kết quân dân\" là một trong những nguồn gốc sức mạnh vô địch của Quân đội nhân dân Việt Nam?",
+        "options": {
+          "A": "Vì nhân dân là nguồn cung cấp sức người, sức của vô tận, che chở, nuôi dưỡng và phối hợp chiến đấu cùng quân đội trên mọi chiến trường.",
+          "B": "Vì quân đội không có hệ thống tổ chức hậu cần riêng nên phải sống hoàn toàn dựa vào nhà dân.",
+          "C": "Vì nhân dân trực tiếp nắm quyền chỉ huy tác chiến các binh đoàn chủ lực trên chiến trường.",
+          "D": "Vì quân đội chỉ được phép hoạt động ở những địa phương có phong trào quần chúng phát triển."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 8,
+        "question": "Theo tư tưởng Hồ Chí Minh, bảo vệ Tổ quốc xã hội chủ nghĩa là trách nhiệm của ai?",
+        "options": {
+          "A": "Là trách nhiệm riêng của cán bộ, chiến sĩ Quân đội nhân dân và Công an nhân dân.",
+          "B": "Là trách nhiệm thiêng liêng, nghĩa vụ cao quý của toàn thể dân tộc Việt Nam, của mọi công dân yêu nước.",
+          "C": "Là trách nhiệm của các cơ quan lãnh đạo Đảng và Nhà nước ở cấp Trung ương.",
+          "D": "Là trách nhiệm của đồng bào sinh sống ở các vùng biên giới, hải đảo."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 9,
+        "question": "Lời kêu gọi Toàn quốc kháng chiến của Chủ tịch Hồ Chí Minh được ban bố vào thời điểm nào?",
+        "options": {
+          "A": "Đêm ngày 19/12/1946.",
+          "B": "Ngày 07/5/1954.",
+          "C": "Ngày 17/7/1966.",
+          "D": "Ngày 30/4/1975."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 10,
+        "question": "Đặc trưng \"vì dân, do dân và của toàn dân\" của nền quốc phòng toàn dân, an ninh nhân dân Việt Nam được thể hiện ở điểm nào?",
+        "options": {
+          "A": "Mọi công dân đều có quyền sở hữu vũ khí quân dụng tại gia đình để tự bảo vệ.",
+          "B": "Mục đích cao nhất là bảo vệ lợi ích của nhân dân; mọi công dân đều tham gia xây dựng và đóng góp sức người, sức của cho sự nghiệp quốc phòng, an ninh.",
+          "C": "Nhân dân tự bầu ra các chức danh chỉ huy quân sự tại các đơn vị bộ đội chủ lực.",
+          "D": "Toàn bộ ngân sách quốc phòng do nhân dân tự nguyện đóng góp mà không sử dụng ngân sách nhà nước. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 2 of 10"
+        },
+        "answer": "B"
+      },
+      {
+        "number": 11,
+        "question": "Nội dung nào sau đây thuộc về xây dựng tiềm lực kinh tế của nền quốc phòng toàn dân, an ninh nhân dân?",
+        "options": {
+          "A": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, xây dựng nền kinh tế độc lập, tự chủ; kết hợp chặt chẽ kinh tế với quốc phòng, an ninh.",
+          "B": "Chỉ tập trung phát triển ngành công nghiệp khai khoáng để xuất khẩu thu ngoại tệ.",
+          "C": "Chuyển toàn bộ các nhà máy sản xuất hàng tiêu dùng sang sản xuất đạn dược ngay trong thời bình.",
+          "D": "Giảm tỷ trọng đầu tư cho khoa học công nghệ để tăng chi tiêu hành chính sự nghiệp."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 12,
+        "question": "Trong xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân, việc \"xây dựng thế trận lòng dân vững chắc\" có ý nghĩa gì?",
+        "options": {
+          "A": "Là nền tảng chính trị - tinh thần vững chắc nhất, quyết định sự bền vững của thế trận quốc phòng toàn dân và thế trận an ninh nhân dân.",
+          "B": "Chỉ có ý nghĩa tuyên truyền cổ động trong các dịp lễ kỷ niệm lớn của đất nước.",
+          "C": "Có thể thay thế hoàn toàn việc xây dựng tiềm lực quân sự và trang bị vũ khí hiện đại.",
+          "D": "Chỉ cần thiết ở các địa bàn vùng sâu, vùng xa nơi đời sống nhân dân còn khó khăn."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 13,
+        "question": "Công tác giáo dục quốc phòng và an ninh cho học sinh, sinh viên nhằm mục đích chủ yếu nào?",
+        "options": {
+          "A": "Bồi dưỡng lòng yêu nước, niềm tự hào dân tộc, nâng cao nhận thức về nhiệm vụ bảo vệ Tổ quốc và trang bị kiến thức, kỹ năng quân sự cơ bản.",
+          "B": "Tuyển chọn 100% sinh viên sau khi tốt nghiệp vào làm việc tại các cơ quan thuộc Bộ Quốc phòng.",
+          "C": "Thay thế hoàn toàn các môn học lý luận chính trị trong chương trình đào tạo đại học.",
+          "D": "Rèn luyện sinh viên trở thành vận động viên thể thao thành tích cao chuyên nghiệp."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 14,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, vì sao Đảng ta khẳng định \"lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy chất lượng cao thắng số lượng đông\"?",
+        "options": {
+          "A": "Vì kẻ thù xâm lược nước ta thường có ưu thế hơn hẳn về quy mô quân số, tiềm lực kinh tế và vũ khí trang bị công nghệ cao.",
+          "B": "Vì nước ta không có khả năng tổ chức các binh đoàn chủ lực quy mô lớn.",
+          "C": "Vì luật pháp quốc tế nghiêm cấm các nước nhỏ sử dụng lực lượng lớn trong tự vệ.",
+          "D": "Vì chiến tranh hiện đại không còn cần đến yếu tố số lượng quân đội."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 15,
+        "question": "Trong chiến tranh nhân dân bảo vệ Tổ quốc, việc kết hợp đấu tranh quân sự với đấu tranh ngoại giao nhằm mục đích gì?",
+        "options": {
+          "A": "Phát huy thắng lợi trên chiến trường, tranh thủ sự đồng tình ủng hộ của nhân dân thế giới, cô lập kẻ thù xâm lược và kết thúc chiến tranh có lợi nhất cho ta.",
+          "B": "Nhờ các nước lớn đứng ra đàm phán thay cho Việt Nam về chủ quyền lãnh thổ.",
+          "C": "Thay thế hoàn toàn các hoạt động tác chiến vũ trang bằng các hội nghị quốc tế.",
+          "D": "Kéo dài thời gian chiến tranh để tranh thủ nguồn viện trợ kinh tế từ bên ngoài."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 16,
+        "question": "Tổ chức thế trận chiến tranh nhân dân bảo vệ Tổ quốc đòi hỏi phải bố trí lực lượng như thế nào?",
+        "options": {
+          "A": "Bố trí lực lượng liên hoàn trên cả nước, kết hợp chặt chẽ giữa các vùng chiến lược (rừng núi, đồng bằng, đô thị, biển đảo), vừa có lực lượng tại chỗ vừa có lực lượng cơ động.",
+          "B": "Tập trung toàn bộ lực lượng vũ trang dọc theo bờ biển miền Trung, bỏ trống biên giới phía Bắc.",
+          "C": "Chỉ bố trí lực lượng phòng thủ xung quanh các thành phố trực thuộc Trung ương.",
+          "D": "Phân tán đều lực lượng cho tất cả các xã trên cả nước, không tổ chức lực lượng cơ động chiến lược. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 3 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 17,
+        "question": "Bộ đội địa phương thuộc lực lượng vũ trang nhân dân ba thứ quân có chức năng, nhiệm vụ chủ yếu nào?",
+        "options": {
+          "A": "Là lực lượng cơ động chiến lược chủ yếu trên phạm vi toàn quốc và làm nhiệm vụ quốc tế.",
+          "B": "Là lực lượng nòng cốt của chiến tranh nhân dân ở địa phương (tỉnh, huyện), trực tiếp tác chiến bảo vệ địa phương và phối hợp chặt chẽ với bộ đội chủ lực, dân quân tự vệ.",
+          "C": "Là lực lượng quần chúng không thoát ly sản xuất tại các thôn, ấp, bản, làng.",
+          "D": "Là lực lượng chuyên trách điều tra tội phạm kinh tế và tham nhũng trên phạm vi cả nước."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 18,
+        "question": "Quan điểm \"Xây dựng lực lượng vũ trang nhân dân lấy chất lượng là chính, lấy xây dựng chính trị làm cơ sở\" xuất phát từ thực tiễn nào?",
+        "options": {
+          "A": "Xuất phát từ bản chất cách mạng của lực lượng vũ trang nhân dân và yêu cầu đối phó hiệu quả với âm mưu chống phá chính trị, tư tưởng và chiến tranh công nghệ cao của địch.",
+          "B": "Xuất phát từ việc nước ta không có nhu cầu tuyển quân hàng năm.",
+          "C": "Xuất phát từ quy định của Hiến pháp về việc giảm thiểu quân số thường trực xuống mức tối thiểu.",
+          "D": "Xuất phát từ quan điểm cho rằng chính trị có thể thay thế hoàn toàn vũ khí, kỹ thuật."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 19,
+        "question": "Nội dung \"từng bước hiện đại, một số quân chủng, binh chủng, lực lượng tiến thẳng lên hiện đại\" trong xây dựng Quân đội nhân dân Việt Nam thể hiện điều gì?",
+        "options": {
+          "A": "Sự vận dụng sáng tạo, phù hợp với khả năng kinh tế - công nghệ của đất nước và yêu cầu ưu tiên bảo vệ những địa bàn, không gian chiến lược trọng yếu (như Hải quân, Phòng không - Không quân, Tác chiến không gian mạng...).",
+          "B": "Sự đầu tư dàn trải đồng đều cho tất cả các đơn vị bộ binh địa phương trên cả nước.",
+          "C": "Việc giải thể các binh chủng truyền thống để chuyển sang xây dựng lực lượng tác chiến vũ trụ.",
+          "D": "Việc phụ thuộc hoàn toàn vào nguồn cung cấp vũ khí hiện đại từ một quốc gia duy nhất."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 20,
+        "question": "Một trong những nhiệm vụ trọng tâm để nâng cao chất lượng huấn luyện, giáo dục - đào tạo trong lực lượng vũ trang nhân dân hiện nay là gì?",
+        "options": {
+          "A": "Huấn luyện sát với thực tế chiến đấu, đối tượng tác chiến, địa bàn hoạt động và điều kiện chiến tranh sử dụng vũ khí công nghệ cao.",
+          "B": "Chỉ huấn luyện lý thuyết trên sa bàn và mô hình máy tính, hạn chế diễn tập thực binh ngoài thực địa.",
+          "C": "Giữ nguyên giáo trình huấn luyện từ thời kỳ kháng chiến chống Pháp mà không cần bổ sung nội dung mới.",
+          "D": "Tập trung huấn luyện nghi lễ duyệt binh là nội dung trọng tâm duy nhất của các đơn vị chủ lực."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 21,
+        "question": "Trong xây dựng lực lượng vũ trang nhân dân, việc thực hiện tốt chính sách hậu phương quân đội có tác dụng gì?",
+        "options": {
+          "A": "Tạo động lực tinh thần và vật chất to lớn giúp cán bộ, chiến sĩ yên tâm công tác, sẵn sàng chiến đấu hy sinh vì Tổ quốc và thu hút nguồn nhân lực chất lượng cao phục vụ trong lực lượng vũ trang.",
+          "B": "Miễn trừ mọi trách nhiệm pháp lý cho thân nhân của cán bộ, chiến sĩ đang tại ngũ.",
+          "C": "Thay thế hoàn toàn công tác giáo dục chính trị tư tưởng trong các đơn vị quân đội.",
+          "D": "Giảm bớt nghĩa vụ đóng góp của địa phương đối với sự nghiệp xây dựng quốc phòng. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 4 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 22,
+        "question": "Biểu hiện của sự kết hợp kinh tế với quốc phòng - an ninh trong giai đoạn hiện nay được Đảng ta xác định như thế nào?",
+        "options": {
+          "A": "Mỗi bước phát triển kinh tế - xã hội là một bước tăng cường tiềm lực quốc phòng - an ninh; mỗi bước củng cố quốc phòng - an ninh tạo điều kiện thuận lợi cho phát triển kinh tế - xã hội.",
+          "B": "Phát triển kinh tế là mục tiêu duy nhất trong thời bình, củng cố quốc phòng chỉ thực hiện khi có chiến tranh.",
+          "C": "Tách bạch hai lĩnh vực này thành hai chiến lược độc lập do hai hệ thống cơ quan riêng biệt điều hành.",
+          "D": "Ưu tiên phát triển công nghiệp quốc phòng bằng mọi giá kể cả khi làm suy giảm đời sống nhân dân."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 23,
+        "question": "Trong kết hợp phát triển kinh tế - xã hội với quốc phòng - an ninh trong lĩnh vực bưu chính viễn thông và công nghệ thông tin, yêu cầu đặt ra là gì?",
+        "options": {
+          "A": "Xây dựng hạ tầng viễn thông, công nghệ thông tin hiện đại, đồng bộ, vừa phục vụ chuyển đổi số kinh tế - xã hội, vừa bảo đảm thông tin liên lạc chỉ huy quân sự, an ninh thông suốt và an toàn an ninh mạng.",
+          "B": "Hạn chế phát triển mạng Internet băng thông rộng ở các tỉnh biên giới để ngăn chặn rò rỉ thông tin.",
+          "C": "Giao toàn bộ hạ tầng mạng viễn thông quốc gia cho các tập đoàn công nghệ nước ngoài quản lý vận hành.",
+          "D": "Cấm sử dụng công nghệ viễn thông dân sự trong các hoạt động cứu hộ, cứu nạn của quân đội."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 24,
+        "question": "Vì sao trong kết hợp kinh tế - xã hội với quốc phòng - an ninh cần đặc biệt chú trọng xây dựng và phát triển các doanh nghiệp quân đội, công an làm kinh tế đúng pháp luật?",
+        "options": {
+          "A": "Nhằm vừa tạo ra sản phẩm phục vụ dân sinh và quốc phòng, vừa tham gia phát triển kinh tế - xã hội ở các địa bàn chiến lược khó khăn, đồng thời duy trì năng lực sản xuất quốc phòng khi có tình huống chiến tranh.",
+          "B": "Nhằm độc quyền toàn bộ các lĩnh vực thương mại, dịch vụ và ngân hàng trên cả nước.",
+          "C": "Nhằm thay thế hoàn toàn khu vực kinh tế tư nhân trong nền kinh tế thị trường định hướng xã hội chủ nghĩa.",
+          "D": "Nhằm miễn thuế hoàn toàn cho tất cả các hoạt động kinh doanh của lực lượng vũ trang."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 25,
+        "question": "Trong kết hợp kinh tế - xã hội với quốc phòng - an ninh ở vùng đồng bằng, đô thị lớn, cần quan tâm vấn đề gì?",
+        "options": {
+          "A": "Quy hoạch phát triển không gian đô thị, công trình ngầm, giao thông, cấp thoát nước gắn với yêu cầu phòng thủ dân sự, phòng không nhân dân và bảo đảm an ninh trật tự đô thị.",
+          "B": "Ngừng cấp phép xây dựng các tòa nhà cao tầng và khu đô thị mới tại các thành phố lớn.",
+          "C": "Chuyển toàn bộ các trường đại học và bệnh viện lớn từ đô thị lên vùng núi cao.",
+          "D": "Bố trí các trận địa pháo binh hạng nặng ngay tại trung tâm các khu dân cư đông đúc."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 26,
+        "question": "Chiến thắng Bạch Đằng năm 938 của Ngô Quyền đã mở ra kỷ nguyên mới cho dân tộc Việt Nam bằng nghệ thuật đánh giặc độc đáo nào?",
+        "options": {
+          "A": "Nghệ thuật lợi dụng thủy triều, bố trí trận địa cọc ngầm hiểm yếu, nhử địch vào quyết chiến điểm để tiêu diệt gọn thủy binh quân Nam Hán.",
+          "B": "Nghệ thuật bao vây thành Cổ Loa dài ngày buộc quân địch phải đầu hàng vì thiếu nước ngọt.",
+          "C": "Nghệ thuật tập kích bằng kỵ binh qua biên giới phía Bắc vào ban đêm.",
+          "D": "Nghệ thuật dùng hỏa công đốt cháy toàn bộ doanh trại bộ binh của địch trên đồng bằng. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 5 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 27,
+        "question": "Câu nói nổi tiếng của Hưng Đạo Đại Vương Trần Quốc Tuấn: \"Khoan thư sức dân để làm kế sâu rễ bền gốc, đó là thượng sách giữ nước\" thể hiện tư tưởng quân sự nào?",
+        "options": {
+          "A": "Tư tưởng lấy dân làm gốc, chăm lo bồi dưỡng sức dân để tạo nền tảng vững chắc nhất cho sự nghiệp giữ nước.",
+          "B": "Tư tưởng giảm bớt quân đội thường trực để tập trung xây dựng cung điện và thành quách.",
+          "C": "Tư tưởng miễn toàn bộ thuế khóa và nghĩa vụ binh dịch cho nhân dân ngay cả khi có giặc ngoại xâm.",
+          "D": "Tư tưởng chỉ dựa vào lực lượng quý tộc tôn thất trong hoàng tộc để đánh giặc."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 28,
+        "question": "Trong kháng chiến chống Mỹ, cứu nước, nghệ thuật chiến tranh nhân dân của Đảng ta đã phát triển lên đỉnh cao mới thông qua phương châm kết hợp nào?",
+        "options": {
+          "A": "Kết hợp đấu tranh quân sự, chính trị, ngoại giao; đánh địch bằng \"ba mũi giáp công\" (quân sự, chính trị, binh vận) trên cả \"ba vùng chiến lược\" (rừng núi, nông thôn đồng bằng, đô thị).",
+          "B": "Chỉ tập trung đánh du kích ở vùng rừng núi Tây Nguyên và Trường Sơn, không hoạt động ở đô thị.",
+          "C": "Chỉ sử dụng đấu tranh chính trị hòa bình ở miền Nam, không tổ chức lực lượng vũ trang giải phóng.",
+          "D": "Đánh nhanh, thắng nhanh bằng các chiến dịch hiệp đồng không quân - hải quân quy mô lớn."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 29,
+        "question": "Một trong những bài học kinh nghiệm quan trọng của nghệ thuật quân sự Việt Nam về xây dựng và phát huy sức mạnh tổng hợp là gì?",
+        "options": {
+          "A": "Kết hợp chặt chẽ sức mạnh dân tộc với sức mạnh thời đại, tranh thủ sự đồng tình ủng hộ quốc tế trên cơ sở giữ vững độc lập, tự chủ.",
+          "B": "Đóng cửa tự cô lập để bảo toàn bí mật quân sự tuyệt đối trong mọi cuộc kháng chiến.",
+          "C": "Chỉ dựa vào sức mạnh quân sự thuần túy, coi nhẹ vai trò của văn hóa và ngoại giao.",
+          "D": "Giao phó hoàn toàn quyền quyết định chiến lược cho các cố vấn quân sự nước ngoài."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 30,
+        "question": "Thềm lục địa của Việt Nam theo Luật Biển Việt Nam năm 2012 được xác định như thế nào?",
+        "options": {
+          "A": "Bao gồm đáy biển và lòng đất dưới đáy biển thuộc phần kéo dài tự nhiên của lãnh thổ đất liền, các đảo và quần đảo của Việt Nam ra đến bờ ngoài của rìa lục địa, hoặc ra đến khoảng cách 200 hải lý tính từ đường cơ sở khi bờ ngoài rìa lục địa ở khoảng cách gần hơn 200 hải lý.",
+          "B": "Chỉ giới hạn trong phạm vi 12 hải lý tính từ đường cơ sở ra phía biển.",
+          "C": "Là toàn bộ vùng nước phía trên đáy biển từ bờ biển ra đến 200 hải lý.",
+          "D": "Chỉ bao gồm các bãi cạn lúc nổi lúc chìm nằm sát bờ biển đất liền."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 31,
+        "question": "Chủ quyền lãnh thổ quốc gia được hiểu là gì?",
+        "options": {
+          "A": "Là quyền làm chủ một cách độc lập, toàn vẹn và đầy đủ về mọi mặt lập pháp, hành pháp và tư pháp của một quốc gia đối với vùng đất, vùng nước, vùng trời và lòng đất thuộc lãnh thổ của quốc gia đó.",
+          "B": "Là quyền khai thác tạm thời tài nguyên thiên nhiên của một quốc gia trên vùng biển quốc tế.",
+          "C": "Là quyền kiểm soát hoạt động thương mại của các công ty nước ngoài tại khu vực biên giới.",
+          "D": "Là quyền ưu tiên đi lại của tàu thuyền một quốc gia qua các eo biển quốc tế."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 32,
+        "question": "Khu vực biên giới trên đất liền của nước Cộng hòa xã hội chủ nghĩa Việt Nam bao gồm phạm vi hành chính nào?",
+        "options": {
+          "A": "Xã, phường, thị trấn có một phần địa giới hành chính trùng hợp với biên giới quốc gia trên đất liền.",
+          "B": "Toàn bộ các tỉnh, thành phố nằm ở khu vực miền núi phía Bắc và Tây Nguyên.",
+          "C": "Chỉ bao gồm phạm vi 100 mét tính từ đường biên giới quốc gia vào sâu trong nội địa.",
+          "D": "Chỉ bao gồm khu vực các cửa khẩu quốc tế và cửa khẩu chính trên tuyến biên giới. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 6 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 33,
+        "question": "Nội dung nào sau đây thể hiện phương châm \"bảo vệ Tổ quốc từ sớm, từ xa\" của Đảng và Nhà nước ta?",
+        "options": {
+          "A": "Chủ động nắm chắc tình hình, dự báo chính xác các nguy cơ, ngăn ngừa và đẩy lùi các nhân tố gây mất ổn định từ khi mới manh nha; giữ nước từ khi nước chưa nguy.",
+          "B": "Đưa quân đội thường trực đi đóng quân thường xuyên tại lãnh thổ của các nước láng giềng.",
+          "C": "Chỉ tập trung xây dựng các tuyến phòng thủ kiên cố ở cách đường biên giới 50 km.",
+          "D": "Phát động chiến tranh phủ đầu đối với bất kỳ quốc gia nào có dấu hiệu gia tăng ngân sách quốc phòng."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 34,
+        "question": "Luật Dân quân tự vệ năm 2019 quy định công dân nào được tạm hoãn thực hiện nghĩa vụ tham gia Dân quân tự vệ trong thời bình?",
+        "options": {
+          "A": "Phụ nữ mang thai hoặc nuôi con dưới 36 tháng tuổi; nam giới một mình nuôi con dưới 36 tháng tuổi; người đang học tập tại trường phổ thông, cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học hệ chính quy tập trung.",
+          "B": "Tất cả công dân nam giới đang làm việc tại các doanh nghiệp có vốn đầu tư nước ngoài.",
+          "C": "Công dân có trình độ đại học trở lên đang cư trú tại các đô thị loại I.",
+          "D": "Công dân đã kết hôn và có từ một con trở lên."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 35,
+        "question": "Lực lượng Dân quân tự vệ biển có nhiệm vụ đặc thù nào?",
+        "options": {
+          "A": "Phối hợp với Hải quân, Bộ đội Biên phòng, Cảnh sát biển tuần tra, canh gác, nắm tình hình trên biển; bảo vệ ngư dân, tham gia tìm kiếm cứu nạn và bảo vệ chủ quyền, quyền chủ quyền biển, đảo của Tổ quốc.",
+          "B": "Trực tiếp điều khiển các tàu ngầm chiến lược và tàu sân bay của Quân đội nhân dân Việt Nam.",
+          "C": "Cấp giấy phép khai thác dầu khí cho các tập đoàn năng lượng quốc tế trên Biển Đông.",
+          "D": "Thay thế lực lượng Hải quan trong việc kiểm soát hàng hóa xuất nhập khẩu tại các cảng biển quốc tế."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 36,
+        "question": "Đơn vị dự bị động viên được tổ chức theo nguyên tắc nào để bảo đảm tính sẵn sàng chiến đấu cao?",
+        "options": {
+          "A": "Tổ chức theo hạng, theo chuyên nghiệp quân sự, gắn với địa bàn cư trú (gần nơi cư trú, nơi làm việc) để thuận tiện cho việc quản lý, huấn luyện và huy động nhanh.",
+          "B": "Tổ chức phân tán ngẫu nhiên trên toàn quốc, mỗi quân nhân dự bị thuộc một tỉnh khác nhau trong cùng một tiểu đội.",
+          "C": "Chỉ tổ chức ở cấp Trung ương, không tổ chức đơn vị dự bị động viên ở cấp tỉnh và cấp huyện.",
+          "D": "Tổ chức theo nhóm ngành nghề kinh tế mà không cần căn cứ vào chuyên nghiệp quân sự đã đào tạo."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 37,
+        "question": "Thẩm quyền quyết định huy động lực lượng dự bị động viên khi có lệnh tổng động viên hoặc động viên cục bộ thuộc về cơ quan nào?",
+        "options": {
+          "A": "Chủ tịch Ủy ban nhân dân cấp xã.",
+          "B": "Thực hiện theo lệnh của Chủ tịch nước, quyết định của Thủ tướng Chính phủ và quy định của Luật Lực lượng dự bị động viên.",
+          "C": "Giám đốc các doanh nghiệp nhà nước và tư nhân tại địa phương.",
+          "D": "Hiệu trưởng các trường đại học, cao đẳng trên cả nước."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 38,
+        "question": "Ngày hội toàn dân bảo vệ an ninh Tổ quốc được tổ chức hàng năm vào ngày nào?",
+        "options": {
+          "A": "Ngày 19 tháng 8.",
+          "B": "Ngày 22 tháng 12.",
+          "C": "Ngày 27 tháng 7.",
+          "D": "Ngày 30 tháng 4. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 7 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 39,
+        "question": "Trong phong trào toàn dân bảo vệ an ninh Tổ quốc, nội dung \"xây dựng khu dân cư, xã, phường, thị trấn, cơ quan, doanh nghiệp, cơ sở giáo dục đạt tiêu chuẩn An toàn về an ninh, trật tự\" có ý nghĩa gì?",
+        "options": {
+          "A": "Cụ thể hóa tiêu chí phấn đấu cho từng tập thể và cá nhân, tạo môi trường xã hội lành mạnh, an toàn ngay từ từng tế bào của xã hội.",
+          "B": "Miễn trừ trách nhiệm điều tra hình sự nếu xảy ra vi phạm pháp luật tại đơn vị đã đạt chuẩn.",
+          "C": "Chỉ nhằm mục đích xếp hạng thi đua hành chính giữa các trường đại học.",
+          "D": "Thay thế hoàn toàn công tác tuần tra kiểm soát của lực lượng Công an nhân dân."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 40,
+        "question": "Quan điểm \"Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng\" được vận dụng trong phong trào toàn dân bảo vệ an ninh Tổ quốc như thế nào?",
+        "options": {
+          "A": "Phát huy quyền làm chủ thực sự của nhân dân trong việc bàn bạc, xây dựng quy ước, thực hiện và giám sát công tác bảo đảm an ninh trật tự ở cơ sở.",
+          "B": "Công khai toàn bộ hồ sơ điều tra mật của cơ quan công an cho mọi người dân xem xét.",
+          "C": "Để người dân tự quyết định mức án phạt tù đối với người phạm tội tại khu dân cư.",
+          "D": "Không cần sự hướng dẫn của lực lượng công an trong các hoạt động tự quản của nhân dân."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 41,
+        "question": "Một trong những nhiệm vụ trọng tâm của bảo vệ an ninh quốc gia hiện nay là gì?",
+        "options": {
+          "A": "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa; bảo vệ an ninh chính trị nội bộ, an ninh kinh tế, an ninh mạng và bí mật nhà nước.",
+          "B": "Kiểm soát toàn bộ hoạt động sản xuất nông nghiệp và định giá nông sản xuất khẩu.",
+          "C": "Quản lý việc cấp bằng tốt nghiệp đại học và chứng chỉ ngoại ngữ quốc tế.",
+          "D": "Điều hành trực tiếp hoạt động kinh doanh của các doanh nghiệp có vốn đầu tư nước ngoài."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 42,
+        "question": "Vì sao trong công tác bảo vệ an ninh quốc gia, giữ gìn trật tự, an toàn xã hội phải kết hợp chặt chẽ giữa \"tích cực phòng ngừa\" và \"chủ động tiến công trấn áp tội phạm\"?",
+        "options": {
+          "A": "Vì phòng ngừa giúp ngăn chặn tội phạm từ gốc, hạn chế thiệt hại cho xã hội; còn tiến công trấn áp kịp thời răn đe, trừng trị nghiêm minh kẻ phạm tội, giữ vững kỷ cương phép nước.",
+          "B": "Vì biện pháp phòng ngừa không có tác dụng thực tế nếu không đi kèm với thiết quân luật.",
+          "C": "Vì lực lượng công an chỉ làm nhiệm vụ trấn áp, còn nhiệm vụ phòng ngừa hoàn toàn do nhà trường đảm nhiệm.",
+          "D": "Vì pháp luật quy định chỉ được trấn áp tội phạm sau khi đã thực hiện tuyên truyền phòng ngừa ít nhất 5 năm."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 43,
+        "question": "Hành vi nào sau đây bị nghiêm cấm theo Luật An ninh mạng và pháp luật về bảo vệ an ninh quốc gia?",
+        "options": {
+          "A": "Sử dụng không gian mạng để đăng tải, phát tán thông tin xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, xúc phạm dân tộc, kích động bạo loạn, phá rối an ninh, gây rối trật tự công cộng.",
+          "B": "Sử dụng mạng xã hội để chia sẻ tài liệu học tập và nghiên cứu khoa học hợp pháp.",
+          "C": "Phản ánh, kiến nghị các hành vi tiêu cực, tham nhũng đến cơ quan nhà nước có thẩm quyền theo đúng quy định của pháp luật.",
+          "D": "Tham gia các diễn đàn trực tuyến tuyên truyền phổ biến kiến thức pháp luật cho thanh niên. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 8 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 44,
+        "question": "Thủ đoạn lợi dụng vấn đề \"dân chủ\", \"nhân quyền\" của các thế lực thù địch nhằm chống phá Việt Nam thường được thực hiện dưới hình thức nào?",
+        "options": {
+          "A": "Vu cáo Việt Nam vi phạm tự do ngôn luận, tự do tôn giáo; can thiệp vào công việc nội bộ, đòi đa nguyên chính trị, đa đảng đối lập và cổ xúy cho các phần tử chống đối đội lốt \"nhà dân chủ\".",
+          "B": "Hỗ trợ Việt Nam xây dựng hệ thống pháp luật bảo vệ quyền con người và quyền công dân theo Hiến pháp.",
+          "C": "Tuyên dương những thành tựu xóa đói giảm nghèo và bảo đảm an sinh xã hội của Việt Nam tại Liên hợp quốc.",
+          "D": "Đầu tư phát triển giáo dục miễn phí cho trẻ em vùng sâu, vùng xa của Việt Nam."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 45,
+        "question": "Khi nhận được lời mời tham gia các hội, nhóm kín trên mạng xã hội có nội dung kích động biểu tình, chống đối chính quyền, sinh viên cần làm gì?",
+        "options": {
+          "A": "Tham gia thử để tìm hiểu nội dung và chia sẻ cho bạn bè cùng xem.",
+          "B": "Kiên quyết từ chối, thoát khỏi nhóm, không chia sẻ hay bình luận cổ xúy và thông báo cho cơ quan chức năng hoặc nhà trường biết để kịp thời ngăn chặn.",
+          "C": "Chuyển tiếp đường dẫn của nhóm đó lên các diễn đàn công khai của sinh viên.",
+          "D": "Đóng góp tài chính cho nhóm để thể hiện sự ủng hộ quyền tự do ngôn luận."
+        },
+        "answer": "B"
+      },
+      {
+        "number": 46,
+        "question": "Vai trò của việc xây dựng khối đại đoàn kết toàn dân tộc trong đấu tranh phòng, chống \"Diễn biến hòa bình\", bạo loạn lật đổ là gì?",
+        "options": {
+          "A": "Tạo nên sức mạnh tổng hợp vô địch, làm thất bại mọi âm mưu chia rẽ nội bộ, kích động bạo loạn lật đổ của các thế lực thù địch.",
+          "B": "Chỉ có ý nghĩa về mặt nghi thức trong các kỳ họp của Mặt trận Tổ quốc các cấp.",
+          "C": "Làm giảm vai trò lãnh đạo của Đảng Cộng sản Việt Nam đối với Nhà nước và xã hội.",
+          "D": "Thay thế hoàn toàn vai trò của lực lượng vũ trang trong bảo vệ biên giới quốc gia."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 47,
+        "question": "Quan điểm của Đảng Cộng sản Việt Nam về vấn đề dân tộc và đoàn kết dân tộc được xác định như thế nào?",
+        "options": {
+          "A": "Vấn đề dân tộc và đoàn kết dân tộc là vấn đề chiến lược cơ bản, lâu dài, đồng thời cũng là vấn đề cấp bách hiện nay của cách mạng Việt Nam.",
+          "B": "Vấn đề dân tộc chỉ là vấn đề mang tính chất địa phương ở các tỉnh miền núi phía Bắc.",
+          "C": "Vấn đề dân tộc đã được giải quyết xong hoàn toàn nên không cần chính sách ưu tiên phát triển nào nữa.",
+          "D": "Vấn đề dân tộc chỉ thuộc phạm vi quản lý của ngành văn hóa và du lịch."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 48,
+        "question": "Nội dung nào sau đây phản ánh đúng thực trạng phát triển kinh tế - xã hội vùng đồng bào dân tộc thiểu số và miền núi nước ta hiện nay?",
+        "options": {
+          "A": "Đời sống vật chất và tinh thần của đồng bào đã có bước cải thiện rõ rệt nhờ các chương trình mục tiêu quốc gia, nhưng nhìn chung trình độ phát triển vẫn còn thấp hơn so với mặt bằng chung cả nước, tỷ lệ hộ nghèo còn cao.",
+          "B": "Vùng dân tộc thiểu số và miền núi hiện có thu nhập bình quân đầu người cao nhất cả nước.",
+          "C": "Vùng dân tộc thiểu số và miền núi đã hoàn thành 100% quá trình đô thị hóa hiện đại.",
+          "D": "Không còn sự chênh lệch về hạ tầng giao thông và giáo dục giữa miền núi và đồng bằng. Đề thi kết thúc Học phần 1 – GDQPAN (Đề số 05 - Mã đề 505) Page 9 of 10"
+        },
+        "answer": "A"
+      },
+      {
+        "number": 49,
+        "question": "Tính chất quần chúng của tôn giáo được thể hiện ở đặc điểm nào?",
+        "options": {
+          "A": "Tôn giáo là một hiện tượng xã hội phổ biến ở tất cả các dân tộc, quốc gia, châu lục; số lượng tín đồ các tôn giáo chiếm tỷ lệ đông đảo trong dân cư thế giới và là nơi sinh hoạt văn hóa, tinh thần của một bộ phận quần chúng nhân dân.",
+          "B": "Tôn giáo chỉ tồn tại trong một nhóm nhỏ các nhà nghiên cứu triết học cổ đại.",
+          "C": "Mọi tín đồ tôn giáo đều là những người có trình độ học vấn đại học trở lên.",
+          "D": "Tôn giáo chỉ xuất hiện ở các quốc gia có nền kinh tế nông nghiệp lạc hậu."
+        },
+        "answer": "A"
+      },
+      {
+        "number": 50,
+        "question": "Nhiệm vụ của sinh viên trong việc góp phần củng cố khối đại đoàn kết dân tộc và bảo đảm tự do tín ngưỡng, tôn giáo đúng pháp luật là gì?",
+        "options": {
+          "A": "Tôn trọng sự đa dạng văn hóa, phong tục tập quán và quyền tự do tín ngưỡng, tôn giáo của bạn bè và nhân dân; đoàn kết giúp đỡ nhau trong học tập, rèn luyện và cảnh giác trước mọi luận điệu chia rẽ dân tộc, tôn giáo.",
+          "B": "Kỳ thị, phân biệt đối xử với các bạn sinh viên đến từ vùng dân tộc thiểu số hoặc có tín ngưỡng tôn giáo.",
+          "C": "Tuyên truyền, lôi kéo sinh viên trong ký túc xá tham gia các tổ chức tôn giáo chưa được Nhà nước công nhận.",
+          "D": "Coi nhẹ việc tìm hiểu pháp luật về tín ngưỡng, tôn giáo vì cho rằng không liên quan đến chuyên ngành học."
+        },
+        "answer": "A"
+      }
+    ]
+  }
+]
